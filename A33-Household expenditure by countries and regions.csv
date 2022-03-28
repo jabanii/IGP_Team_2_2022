@@ -1,0 +1,937 @@
+﻿Expenditure_Category,Countries,Regions,Year,Expenditure
+Food and non-alcoholic drinks,England,North East,2015,49.9
+Food and non-alcoholic drinks,England,Yorkshire and The Humber,2015,51.1
+Food and non-alcoholic drinks,England,North West,2015,54.1
+Food and non-alcoholic drinks,Wales,Wales,2015,54.2
+Food and non-alcoholic drinks,England,West Midlands,2015,55.9
+Food and non-alcoholic drinks,Scotland,Scotland,2015,56.9
+Food and non-alcoholic drinks,England,East Midlands,2015,57.6
+Food and non-alcoholic drinks,England,South West,2015,60.6
+Food and non-alcoholic drinks,England,East,2015,61.6
+Food and non-alcoholic drinks,England,South East,2015,63.6
+Food and non-alcoholic drinks,England,London,2015,63.8
+Food and non-alcoholic drinks,Northern Ireland,Northern Ireland,2015,64.1
+"Alcoholic drinks, tobacco and narcotics",England,North East,2015,11.8
+"Alcoholic drinks, tobacco and narcotics",England,North West,2015,13.3
+"Alcoholic drinks, tobacco and narcotics",England,Yorkshire and The Humber,2015,12.2
+"Alcoholic drinks, tobacco and narcotics",England,East Midlands,2015,12.8
+"Alcoholic drinks, tobacco and narcotics",England,West Midlands,2015,11.3
+"Alcoholic drinks, tobacco and narcotics",England,East,2015,11.9
+"Alcoholic drinks, tobacco and narcotics",England,London,2015,10.1
+"Alcoholic drinks, tobacco and narcotics",England,South East,2015,12.6
+"Alcoholic drinks, tobacco and narcotics",England,South West,2015,11
+"Alcoholic drinks, tobacco and narcotics",Wales,Wales,2015,10.3
+"Alcoholic drinks, tobacco and narcotics",Scotland,Scotland,2015,15.1
+"Alcoholic drinks, tobacco and narcotics",Northern Ireland,Northern Ireland,2015,14.5
+"Alcoholic drinks, tobacco and narcotics",England,North East,2016,11.8
+"Alcoholic drinks, tobacco and narcotics",England,North West,2016,12.6
+"Alcoholic drinks, tobacco and narcotics",England,Yorkshire and The Humber,2016,11.7
+"Alcoholic drinks, tobacco and narcotics",England,East Midlands,2016,12.1
+"Alcoholic drinks, tobacco and narcotics",England,West Midlands,2016,11
+"Alcoholic drinks, tobacco and narcotics",England,East,2016,11.9
+"Alcoholic drinks, tobacco and narcotics",England,London,2016,9.6
+"Alcoholic drinks, tobacco and narcotics",England,South East,2016,12.5
+"Alcoholic drinks, tobacco and narcotics",England,South West,2016,10.7
+"Alcoholic drinks, tobacco and narcotics",Wales,Wales,2016,10.7
+"Alcoholic drinks, tobacco and narcotics",Scotland,Scotland,2016,14.6
+"Alcoholic drinks, tobacco and narcotics",Northern Ireland,Northern Ireland,2016,15.6
+"Alcoholic drinks, tobacco and narcotics",England,North East,2017,10.6
+"Alcoholic drinks, tobacco and narcotics",England,North West,2017,12.7
+"Alcoholic drinks, tobacco and narcotics",England,Yorkshire and The Humber,2017,11.7
+"Alcoholic drinks, tobacco and narcotics",England,East Midlands,2017,12.4
+"Alcoholic drinks, tobacco and narcotics",England,West Midlands,2017,10.9
+"Alcoholic drinks, tobacco and narcotics",England,East,2017,11.5
+"Alcoholic drinks, tobacco and narcotics",England,London,2017,9.5
+"Alcoholic drinks, tobacco and narcotics",England,South East,2017,12.8
+"Alcoholic drinks, tobacco and narcotics",England,South West,2017,10.7
+"Alcoholic drinks, tobacco and narcotics",Wales,Wales,2017,10.9
+"Alcoholic drinks, tobacco and narcotics",Scotland,Scotland,2017,13.4
+"Alcoholic drinks, tobacco and narcotics",Northern Ireland,Northern Ireland,2017,16.1
+"Alcoholic drinks, tobacco and narcotics",England,North East,2018,12.1
+"Alcoholic drinks, tobacco and narcotics",England,North West,2018,12.3
+"Alcoholic drinks, tobacco and narcotics",England,Yorkshire and The Humber,2018,11.7
+"Alcoholic drinks, tobacco and narcotics",England,East Midlands,2018,12.9
+"Alcoholic drinks, tobacco and narcotics",England,West Midlands,2018,11.2
+"Alcoholic drinks, tobacco and narcotics",England,East,2018,11.6
+"Alcoholic drinks, tobacco and narcotics",England,London,2018,10.4
+"Alcoholic drinks, tobacco and narcotics",England,South East,2018,12.2
+"Alcoholic drinks, tobacco and narcotics",England,South West,2018,11.6
+"Alcoholic drinks, tobacco and narcotics",Wales,Wales,2018,11.9
+"Alcoholic drinks, tobacco and narcotics",Scotland,Scotland,2018,13.2
+"Alcoholic drinks, tobacco and narcotics",Northern Ireland,Northern Ireland,2018,16.3
+"Alcoholic drinks, tobacco and narcotics",England,North East,2019,12.9
+"Alcoholic drinks, tobacco and narcotics",England,North West,2019,13.6
+"Alcoholic drinks, tobacco and narcotics",England,Yorkshire and The Humber,2019,11.9
+"Alcoholic drinks, tobacco and narcotics",England,East Midlands,2019,13.6
+"Alcoholic drinks, tobacco and narcotics",England,West Midlands,2019,11.6
+"Alcoholic drinks, tobacco and narcotics",England,East,2019,12.2
+"Alcoholic drinks, tobacco and narcotics",England,London,2019,10.9
+"Alcoholic drinks, tobacco and narcotics",England,South East,2019,12.5
+"Alcoholic drinks, tobacco and narcotics",England,South West,2019,12.4
+"Alcoholic drinks, tobacco and narcotics",Wales,Wales,2019,12
+"Alcoholic drinks, tobacco and narcotics",Scotland,Scotland,2019,14
+"Alcoholic drinks, tobacco and narcotics",Northern Ireland,Northern Ireland,2019,14.7
+"Alcoholic drinks, tobacco and narcotics",England,North East,2020,13.4
+"Alcoholic drinks, tobacco and narcotics",England,North West,2020,13.5
+"Alcoholic drinks, tobacco and narcotics",England,Yorkshire and The Humber,2020,12.8
+"Alcoholic drinks, tobacco and narcotics",England,East Midlands,2020,13
+"Alcoholic drinks, tobacco and narcotics",England,West Midlands,2020,11.9
+"Alcoholic drinks, tobacco and narcotics",England,East,2020,13.3
+"Alcoholic drinks, tobacco and narcotics",England,London,2020,11
+"Alcoholic drinks, tobacco and narcotics",England,South East,2020,12.7
+"Alcoholic drinks, tobacco and narcotics",England,South West,2020,12.6
+"Alcoholic drinks, tobacco and narcotics",Wales,Wales,2020,11.8
+"Alcoholic drinks, tobacco and narcotics",Scotland,Scotland,2020,14.9
+"Alcoholic drinks, tobacco and narcotics",Northern Ireland,Northern Ireland,2020,14.6
+Clothing and footwear,England,North East,2015,20.8
+Clothing and footwear,England,North West,2015,22.5
+Clothing and footwear,England,Yorkshire and The Humber,2015,20.7
+Clothing and footwear,England,East Midlands,2015,21.4
+Clothing and footwear,England,West Midlands,2015,20.1
+Clothing and footwear,England,East,2015,22.3
+Clothing and footwear,England,London,2015,27.6
+Clothing and footwear,England,South East,2015,25.7
+Clothing and footwear,England,South West,2015,21.8
+Clothing and footwear,Wales,Wales,2015,22.6
+Clothing and footwear,Scotland,Scotland,2015,22.9
+Clothing and footwear,Northern Ireland,Northern Ireland,2015,36
+Clothing and footwear,England,North East,2016,20.4
+Clothing and footwear,England,North West,2016,22.9
+Clothing and footwear,England,Yorkshire and The Humber,2016,21.9
+Clothing and footwear,England,East Midlands,2016,20.9
+Clothing and footwear,England,West Midlands,2016,22.1
+Clothing and footwear,England,East,2016,25.1
+Clothing and footwear,England,London,2016,25.8
+Clothing and footwear,England,South East,2016,25.6
+Clothing and footwear,England,South West,2016,20.2
+Clothing and footwear,Wales,Wales,2016,21.3
+Clothing and footwear,Scotland,Scotland,2016,21.7
+Clothing and footwear,Northern Ireland,Northern Ireland,2016,37.8
+Clothing and footwear,England,North East,2017,23.4
+Clothing and footwear,England,North West,2017,23.2
+Clothing and footwear,England,Yorkshire and The Humber,2017,20.9
+Clothing and footwear,England,East Midlands,2017,22.8
+Clothing and footwear,England,West Midlands,2017,25.1
+Clothing and footwear,England,East,2017,25
+Clothing and footwear,England,London,2017,27.1
+Clothing and footwear,England,South East,2017,26.1
+Clothing and footwear,England,South West,2017,20
+Clothing and footwear,Wales,Wales,2017,22
+Clothing and footwear,Scotland,Scotland,2017,21.8
+Clothing and footwear,Northern Ireland,Northern Ireland,2017,35.6
+Clothing and footwear,England,North East,2018,23
+Clothing and footwear,England,North West,2018,24
+Clothing and footwear,England,Yorkshire and The Humber,2018,21.8
+Clothing and footwear,England,East Midlands,2018,23.6
+Clothing and footwear,England,West Midlands,2018,23.7
+Clothing and footwear,England,East,2018,25.5
+Clothing and footwear,England,London,2018,27.5
+Clothing and footwear,England,South East,2018,27.2
+Clothing and footwear,England,South West,2018,21.4
+Clothing and footwear,Wales,Wales,2018,21.7
+Clothing and footwear,Scotland,Scotland,2018,22.7
+Clothing and footwear,Northern Ireland,Northern Ireland,2018,30.9
+Clothing and footwear,England,North East,2019,24.5
+Clothing and footwear,England,North West,2019,25
+Clothing and footwear,England,Yorkshire and The Humber,2019,22.3
+Clothing and footwear,England,East Midlands,2019,23.6
+Clothing and footwear,England,West Midlands,2019,21.1
+Clothing and footwear,England,East,2019,24.1
+Clothing and footwear,England,London,2019,30
+Clothing and footwear,England,South East,2019,27.5
+Clothing and footwear,England,South West,2019,22.1
+Clothing and footwear,Wales,Wales,2019,22
+Clothing and footwear,Scotland,Scotland,2019,23.4
+Clothing and footwear,Northern Ireland,Northern Ireland,2019,30.9
+Clothing and footwear,England,North East,2020,21
+Clothing and footwear,England,North West,2020,25
+Clothing and footwear,England,Yorkshire and The Humber,2020,22.3
+Clothing and footwear,England,East Midlands,2020,23.3
+Clothing and footwear,England,West Midlands,2020,20.1
+Clothing and footwear,England,East,2020,23.7
+Clothing and footwear,England,London,2020,28.5
+Clothing and footwear,England,South East,2020,26.7
+Clothing and footwear,England,South West,2020,22.5
+Clothing and footwear,Wales,Wales,2020,20.7
+Clothing and footwear,Scotland,Scotland,2020,23.9
+Clothing and footwear,Northern Ireland,Northern Ireland,2020,30
+Communication,England,North East,2015,13.1
+Communication,England,North West,2015,14.1
+Communication,England,Yorkshire and The Humber,2015,13.2
+Communication,England,East Midlands,2015,15.2
+Communication,England,West Midlands,2015,14.1
+Communication,England,East,2015,15
+Communication,England,London,2015,16.9
+Communication,England,South East,2015,15.7
+Communication,England,South West,2015,14.7
+Communication,Wales,Wales,2015,13.7
+Communication,Scotland,Scotland,2015,13.9
+Communication,Northern Ireland,Northern Ireland,2015,16.6
+Communication,England,North East,2016,13.4
+Communication,England,North West,2016,14.7
+Communication,England,Yorkshire and The Humber,2016,14.2
+Communication,England,East Midlands,2016,16.1
+Communication,England,West Midlands,2016,14.3
+Communication,England,East,2016,15.7
+Communication,England,London,2016,17.4
+Communication,England,South East,2016,16.9
+Communication,England,South West,2016,14.8
+Communication,Wales,Wales,2016,14.1
+Communication,Scotland,Scotland,2016,14.3
+Communication,Northern Ireland,Northern Ireland,2016,17.5
+Communication,England,North East,2017,13.9
+Communication,England,North West,2017,15.8
+Communication,England,Yorkshire and The Humber,2017,15.1
+Communication,England,East Midlands,2017,16.5
+Communication,England,West Midlands,2017,15.7
+Communication,England,East,2017,16.4
+Communication,England,London,2017,18.3
+Communication,England,South East,2017,17.7
+Communication,England,South West,2017,15.2
+Communication,Wales,Wales,2017,14.9
+Communication,Scotland,Scotland,2017,15.2
+Communication,Northern Ireland,Northern Ireland,2017,17.5
+Communication,England,North East,2018,14.7
+Communication,England,North West,2018,16
+Communication,England,Yorkshire and The Humber,2018,16.4
+Communication,England,East Midlands,2018,16.6
+Communication,England,West Midlands,2018,16.2
+Communication,England,East,2018,17.4
+Communication,England,London,2018,19.3
+Communication,England,South East,2018,18.7
+Communication,England,South West,2018,16.3
+Communication,Wales,Wales,2018,15.8
+Communication,Scotland,Scotland,2018,16.4
+Communication,Northern Ireland,Northern Ireland,2018,17.2
+Communication,England,North East,2019,17.3
+Communication,England,North West,2019,17.8
+Communication,England,Yorkshire and The Humber,2019,17.5
+Communication,England,East Midlands,2019,18.2
+Communication,England,West Midlands,2019,18.4
+Communication,England,East,2019,19
+Communication,England,London,2019,20.9
+Communication,England,South East,2019,20.6
+Communication,England,South West,2019,18.3
+Communication,Wales,Wales,2019,17.8
+Communication,Scotland,Scotland,2019,18.3
+Communication,Northern Ireland,Northern Ireland,2019,18.1
+Communication,England,North East,2020,18.8
+Communication,England,North West,2020,19.2
+Communication,England,Yorkshire and The Humber,2020,18.7
+Communication,England,East Midlands,2020,19.8
+Communication,England,West Midlands,2020,19.9
+Communication,England,East,2020,20.5
+Communication,England,London,2020,21.7
+Communication,England,South East,2020,22.5
+Communication,England,South West,2020,19.9
+Communication,Wales,Wales,2020,18.9
+Communication,Scotland,Scotland,2020,19.3
+Communication,Northern Ireland,Northern Ireland,2020,20
+Education,England,North East,2015,4.7
+Education,England,North West,2015,4.3
+Education,England,Yorkshire and The Humber,2015,5.1
+Education,England,East Midlands,2015,16.9
+Education,England,West Midlands,2015,4.1
+Education,England,East,2015,7.5
+Education,England,London,2015,16
+Education,England,South East,2015,6.6
+Education,England,South West,2015,10.7
+Education,Wales,Wales,2015,11
+Education,Scotland,Scotland,2015,6.3
+Education,Northern Ireland,Northern Ireland,2015,3.9
+Education,England,North East,2016,2.2
+Education,England,North West,2016,2.6
+Education,England,Yorkshire and The Humber,2016,7.1
+Education,England,East Midlands,2016,15.8
+Education,England,West Midlands,2016,2.9
+Education,England,East,2016,8.4
+Education,England,London,2016,17
+Education,England,South East,2016,7.5
+Education,England,South West,2016,9.5
+Education,Wales,Wales,2016,2.1
+Education,Scotland,Scotland,2016,7.6
+Education,Northern Ireland,Northern Ireland,2016,4.5
+Education,England,North East,2017,3.5
+Education,England,North West,2017,3.1
+Education,England,Yorkshire and The Humber,2017,6.2
+Education,England,East Midlands,2017,12.7
+Education,England,West Midlands,2017,1.7
+Education,England,East,2017,9.2
+Education,England,London,2017,13.4
+Education,England,South East,2017,7.9
+Education,England,South West,2017,7.1
+Education,Wales,Wales,2017,1.4
+Education,Scotland,Scotland,2017,8.5
+Education,Northern Ireland,Northern Ireland,2017,6.8
+Education,England,North East,2018,2
+Education,England,North West,2018,4
+Education,England,Yorkshire and The Humber,2018,6.7
+Education,England,East Midlands,2018,6.6
+Education,England,West Midlands,2018,4.7
+Education,England,East,2018,6.1
+Education,England,London,2018,15.7
+Education,England,South East,2018,10.1
+Education,England,South West,2018,7.2
+Education,Wales,Wales,2018,1.6
+Education,Scotland,Scotland,2018,5.3
+Education,Northern Ireland,Northern Ireland,2018,5.6
+Education,England,North East,2019,2.9
+Education,England,North West,2019,4.2
+Education,England,Yorkshire and The Humber,2019,4.6
+Education,England,East Midlands,2019,6
+Education,England,West Midlands,2019,5.1
+Education,England,East,2019,3.6
+Education,England,London,2019,18.5
+Education,England,South East,2019,9.1
+Education,England,South West,2019,5.5
+Education,Wales,Wales,2019,1.9
+Education,Scotland,Scotland,2019,3.4
+Education,Northern Ireland,Northern Ireland,2019,4.9
+Education,England,North East,2020,1.6
+Education,England,North West,2020,4
+Education,England,Yorkshire and The Humber,2020,3.9
+Education,England,East Midlands,2020,5.3
+Education,England,West Midlands,2020,5
+Education,England,East,2020,4.8
+Education,England,London,2020,16.7
+Education,England,South East,2020,8.9
+Education,England,South West,2020,6.4
+Education,Wales,Wales,2020,2.6
+Education,Scotland,Scotland,2020,2.3
+Education,Northern Ireland,Northern Ireland,2020,2.8
+Food and non-alcoholic drinks,England,North East,2016,49.6
+Food and non-alcoholic drinks,England,North West,2016,54.8
+Food and non-alcoholic drinks,England,Yorkshire and The Humber,2016,51.4
+Food and non-alcoholic drinks,England,East Midlands,2016,57.8
+Food and non-alcoholic drinks,England,West Midlands,2016,55.8
+Food and non-alcoholic drinks,England,East,2016,61.7
+Food and non-alcoholic drinks,England,London,2016,62.6
+Food and non-alcoholic drinks,England,South East,2016,64.2
+Food and non-alcoholic drinks,England,South West,2016,60.4
+Food and non-alcoholic drinks,Wales,Wales,2016,53.2
+Food and non-alcoholic drinks,Scotland,Scotland,2016,56.1
+Food and non-alcoholic drinks,Northern Ireland,Northern Ireland,2016,64.2
+Food and non-alcoholic drinks,England,North East,2017,49.8
+Food and non-alcoholic drinks,England,North West,2017,55.3
+Food and non-alcoholic drinks,England,Yorkshire and The Humber,2017,51
+Food and non-alcoholic drinks,England,East Midlands,2017,57.9
+Food and non-alcoholic drinks,England,West Midlands,2017,56.7
+Food and non-alcoholic drinks,England,East,2017,60.3
+Food and non-alcoholic drinks,England,London,2017,61.6
+Food and non-alcoholic drinks,England,South East,2017,63
+Food and non-alcoholic drinks,England,South West,2017,58.9
+Food and non-alcoholic drinks,Wales,Wales,2017,52.9
+Food and non-alcoholic drinks,Scotland,Scotland,2017,55.3
+Food and non-alcoholic drinks,Northern Ireland,Northern Ireland,2017,62.5
+Food and non-alcoholic drinks,England,North East,2018,51.9
+Food and non-alcoholic drinks,England,North West,2018,55.7
+Food and non-alcoholic drinks,England,Yorkshire and The Humber,2018,53
+Food and non-alcoholic drinks,England,East Midlands,2018,58.6
+Food and non-alcoholic drinks,England,West Midlands,2018,56.5
+Food and non-alcoholic drinks,England,East,2018,61.7
+Food and non-alcoholic drinks,England,London,2018,62.8
+Food and non-alcoholic drinks,England,South East,2018,64.2
+Food and non-alcoholic drinks,England,South West,2018,60.6
+Food and non-alcoholic drinks,Wales,Wales,2018,53.7
+Food and non-alcoholic drinks,Scotland,Scotland,2018,55
+Food and non-alcoholic drinks,Northern Ireland,Northern Ireland,2018,63.2
+Food and non-alcoholic drinks,England,North East,2019,55.2
+Food and non-alcoholic drinks,England,North West,2019,56.4
+Food and non-alcoholic drinks,England,Yorkshire and The Humber,2019,54.4
+Food and non-alcoholic drinks,England,East Midlands,2019,61.2
+Food and non-alcoholic drinks,England,West Midlands,2019,58.1
+Food and non-alcoholic drinks,England,East,2019,62.2
+Food and non-alcoholic drinks,England,London,2019,65.8
+Food and non-alcoholic drinks,England,South East,2019,66.2
+Food and non-alcoholic drinks,England,South West,2019,61
+Food and non-alcoholic drinks,Wales,Wales,2019,56.1
+Food and non-alcoholic drinks,Scotland,Scotland,2019,57
+Food and non-alcoholic drinks,Northern Ireland,Northern Ireland,2019,63.8
+Food and non-alcoholic drinks,England,North East,2020,57.1
+Food and non-alcoholic drinks,England,North West,2020,57.8
+Food and non-alcoholic drinks,England,Yorkshire and The Humber,2020,56.1
+Food and non-alcoholic drinks,England,East Midlands,2020,62.2
+Food and non-alcoholic drinks,England,West Midlands,2020,60.4
+Food and non-alcoholic drinks,England,East,2020,63.5
+Food and non-alcoholic drinks,England,London,2020,69.9
+Food and non-alcoholic drinks,England,South East,2020,68.7
+Food and non-alcoholic drinks,England,South West,2020,63.1
+Food and non-alcoholic drinks,Wales,Wales,2020,57.4
+Food and non-alcoholic drinks,Scotland,Scotland,2020,57.6
+Food and non-alcoholic drinks,Northern Ireland,Northern Ireland,2020,65.1
+Health,England,North East,2015,3.2
+Health,England,North West,2015,5
+Health,England,Yorkshire and The Humber,2015,6.3
+Health,England,East Midlands,2015,6.1
+Health,England,West Midlands,2015,5.7
+Health,England,East,2015,8.3
+Health,England,London,2015,7
+Health,England,South East,2015,8.2
+Health,England,South West,2015,9.7
+Health,Wales,Wales,2015,5.1
+Health,Scotland,Scotland,2015,4.5
+Health,Northern Ireland,Northern Ireland,2015,5.4
+Health,England,North East,2016,3.9
+Health,England,North West,2016,6.4
+Health,England,Yorkshire and The Humber,2016,8.2
+Health,England,East Midlands,2016,6.5
+Health,England,West Midlands,2016,4.7
+Health,England,East,2016,9.4
+Health,England,London,2016,7.8
+Health,England,South East,2016,9.4
+Health,England,South West,2016,7.9
+Health,Wales,Wales,2016,3.9
+Health,Scotland,Scotland,2016,4.6
+Health,Northern Ireland,Northern Ireland,2016,6
+Health,England,North East,2017,3.8
+Health,England,North West,2017,5.6
+Health,England,Yorkshire and The Humber,2017,7.9
+Health,England,East Midlands,2017,6
+Health,England,West Midlands,2017,5.1
+Health,England,East,2017,8.4
+Health,England,London,2017,8.2
+Health,England,South East,2017,10.2
+Health,England,South West,2017,9.7
+Health,Wales,Wales,2017,4.3
+Health,Scotland,Scotland,2017,5
+Health,Northern Ireland,Northern Ireland,2017,6.1
+Health,England,North East,2018,4.1
+Health,England,North West,2018,6
+Health,England,Yorkshire and The Humber,2018,7
+Health,England,East Midlands,2018,6.4
+Health,England,West Midlands,2018,5.6
+Health,England,East,2018,8.9
+Health,England,London,2018,8
+Health,England,South East,2018,10
+Health,England,South West,2018,8.6
+Health,Wales,Wales,2018,5
+Health,Scotland,Scotland,2018,4.9
+Health,Northern Ireland,Northern Ireland,2018,6.4
+Health,England,North East,2019,4.4
+Health,England,North West,2019,5.2
+Health,England,Yorkshire and The Humber,2019,6
+Health,England,East Midlands,2019,7
+Health,England,West Midlands,2019,7.7
+Health,England,East,2019,8.3
+Health,England,London,2019,8.2
+Health,England,South East,2019,9.9
+Health,England,South West,2019,9.3
+Health,Wales,Wales,2019,6.1
+Health,Scotland,Scotland,2019,6.5
+Health,Northern Ireland,Northern Ireland,2019,6.8
+Health,England,North East,2020,5.3
+Health,England,North West,2020,5.3
+Health,England,Yorkshire and The Humber,2020,6.5
+Health,England,East Midlands,2020,7.3
+Health,England,West Midlands,2020,8.7
+Health,England,East,2020,9
+Health,England,London,2020,8.9
+Health,England,South East,2020,10.2
+Health,England,South West,2020,8.7
+Health,Wales,Wales,2020,6.2
+Health,Scotland,Scotland,2020,6
+Health,Northern Ireland,Northern Ireland,2020,7
+Household goods and services,England,North East,2015,33
+Household goods and services,England,North West,2015,34.7
+Household goods and services,England,Yorkshire and The Humber,2015,29.2
+Household goods and services,England,East Midlands,2015,33.2
+Household goods and services,England,West Midlands,2015,31.9
+Household goods and services,England,East,2015,34.5
+Household goods and services,England,London,2015,35.7
+Household goods and services,England,South East,2015,38.3
+Household goods and services,England,South West,2015,35
+Household goods and services,Wales,Wales,2015,30.7
+Household goods and services,Scotland,Scotland,2015,27.8
+Household goods and services,Northern Ireland,Northern Ireland,2015,29.7
+Household goods and services,England,North East,2016,35.4
+Household goods and services,England,North West,2016,32.4
+Household goods and services,England,Yorkshire and The Humber,2016,31.1
+Household goods and services,England,East Midlands,2016,34.6
+Household goods and services,England,West Midlands,2016,30.9
+Household goods and services,England,East,2016,36.7
+Household goods and services,England,London,2016,41.7
+Household goods and services,England,South East,2016,38.7
+Household goods and services,England,South West,2016,32.9
+Household goods and services,Wales,Wales,2016,33.4
+Household goods and services,Scotland,Scotland,2016,31
+Household goods and services,Northern Ireland,Northern Ireland,2016,33
+Household goods and services,England,North East,2017,35.1
+Household goods and services,England,North West,2017,33.6
+Household goods and services,England,Yorkshire and The Humber,2017,35.7
+Household goods and services,England,East Midlands,2017,38
+Household goods and services,England,West Midlands,2017,33.3
+Household goods and services,England,East,2017,37.9
+Household goods and services,England,London,2017,41.8
+Household goods and services,England,South East,2017,45.7
+Household goods and services,England,South West,2017,33.7
+Household goods and services,Wales,Wales,2017,39
+Household goods and services,Scotland,Scotland,2017,30.1
+Household goods and services,Northern Ireland,Northern Ireland,2017,35
+Household goods and services,England,North East,2018,39.8
+Household goods and services,England,North West,2018,34.7
+Household goods and services,England,Yorkshire and The Humber,2018,38.9
+Household goods and services,England,East Midlands,2018,37.8
+Household goods and services,England,West Midlands,2018,32.5
+Household goods and services,England,East,2018,36.4
+Household goods and services,England,London,2018,43.4
+Household goods and services,England,South East,2018,49.3
+Household goods and services,England,South West,2018,37.1
+Household goods and services,Wales,Wales,2018,35.6
+Household goods and services,Scotland,Scotland,2018,33.8
+Household goods and services,Northern Ireland,Northern Ireland,2018,31.5
+Household goods and services,England,North East,2019,40.8
+Household goods and services,England,North West,2019,36.8
+Household goods and services,England,Yorkshire and The Humber,2019,42.1
+Household goods and services,England,East Midlands,2019,41.4
+Household goods and services,England,West Midlands,2019,34.2
+Household goods and services,England,East,2019,37.9
+Household goods and services,England,London,2019,41.1
+Household goods and services,England,South East,2019,51.3
+Household goods and services,England,South West,2019,44.9
+Household goods and services,Wales,Wales,2019,34
+Household goods and services,Scotland,Scotland,2019,35.4
+Household goods and services,Northern Ireland,Northern Ireland,2019,31.3
+Household goods and services,England,North East,2020,38.2
+Household goods and services,England,North West,2020,38.2
+Household goods and services,England,Yorkshire and The Humber,2020,40.5
+Household goods and services,England,East Midlands,2020,40
+Household goods and services,England,West Midlands,2020,36
+Household goods and services,England,East,2020,40.1
+Household goods and services,England,London,2020,37.3
+Household goods and services,England,South East,2020,46.4
+Household goods and services,England,South West,2020,44.8
+Household goods and services,Wales,Wales,2020,34
+Household goods and services,Scotland,Scotland,2020,35.6
+Household goods and services,Northern Ireland,Northern Ireland,2020,31.5
+Housing(net) fuel and power,England,North East,2015,57.5
+Housing(net) fuel and power,England,North West,2015,63.9
+Housing(net) fuel and power,England,Yorkshire and The Humber,2015,61.7
+Housing(net) fuel and power,England,East Midlands,2015,65.7
+Housing(net) fuel and power,England,West Midlands,2015,64
+Housing(net) fuel and power,England,East,2015,73.4
+Housing(net) fuel and power,England,London,2015,113.5
+Housing(net) fuel and power,England,South East,2015,79.6
+Housing(net) fuel and power,England,South West,2015,69.6
+Housing(net) fuel and power,Wales,Wales,2015,60.6
+Housing(net) fuel and power,Scotland,Scotland,2015,59.3
+Housing(net) fuel and power,Northern Ireland,Northern Ireland,2015,54.7
+Housing(net) fuel and power,England,North East,2016,55.8
+Housing(net) fuel and power,England,North West,2016,64.2
+Housing(net) fuel and power,England,Yorkshire and The Humber,2016,64
+Housing(net) fuel and power,England,East Midlands,2016,67.6
+Housing(net) fuel and power,England,West Midlands,2016,66.5
+Housing(net) fuel and power,England,East,2016,72.5
+Housing(net) fuel and power,England,London,2016,117.9
+Housing(net) fuel and power,England,South East,2016,79.5
+Housing(net) fuel and power,England,South West,2016,71.4
+Housing(net) fuel and power,Wales,Wales,2016,59.5
+Housing(net) fuel and power,Scotland,Scotland,2016,61
+Housing(net) fuel and power,Northern Ireland,Northern Ireland,2016,53.7
+Housing(net) fuel and power,England,North East,2017,56.1
+Housing(net) fuel and power,England,North West,2017,62.2
+Housing(net) fuel and power,England,Yorkshire and The Humber,2017,61.2
+Housing(net) fuel and power,England,East Midlands,2017,66.7
+Housing(net) fuel and power,England,West Midlands,2017,66.9
+Housing(net) fuel and power,England,East,2017,66.6
+Housing(net) fuel and power,England,London,2017,122
+Housing(net) fuel and power,England,South East,2017,76.9
+Housing(net) fuel and power,England,South West,2017,70.6
+Housing(net) fuel and power,Wales,Wales,2017,57.6
+Housing(net) fuel and power,Scotland,Scotland,2017,62.3
+Housing(net) fuel and power,Northern Ireland,Northern Ireland,2017,52.4
+Housing(net) fuel and power,England,North East,2018,53.8
+Housing(net) fuel and power,England,North West,2018,62.7
+Housing(net) fuel and power,England,Yorkshire and The Humber,2018,64.2
+Housing(net) fuel and power,England,East Midlands,2018,67.1
+Housing(net) fuel and power,England,West Midlands,2018,66.7
+Housing(net) fuel and power,England,East,2018,69.8
+Housing(net) fuel and power,England,London,2018,124.2
+Housing(net) fuel and power,England,South East,2018,77.4
+Housing(net) fuel and power,England,South West,2018,74.4
+Housing(net) fuel and power,Wales,Wales,2018,56.2
+Housing(net) fuel and power,Scotland,Scotland,2018,63.1
+Housing(net) fuel and power,Northern Ireland,Northern Ireland,2018,53.4
+Housing(net) fuel and power,England,North East,2019,57.3
+Housing(net) fuel and power,England,North West,2019,64.7
+Housing(net) fuel and power,England,Yorkshire and The Humber,2019,64
+Housing(net) fuel and power,England,East Midlands,2019,66.9
+Housing(net) fuel and power,England,West Midlands,2019,66.6
+Housing(net) fuel and power,England,East,2019,75.5
+Housing(net) fuel and power,England,London,2019,129.3
+Housing(net) fuel and power,England,South East,2019,80.4
+Housing(net) fuel and power,England,South West,2019,76.7
+Housing(net) fuel and power,Wales,Wales,2019,59.5
+Housing(net) fuel and power,Scotland,Scotland,2019,62.4
+Housing(net) fuel and power,Northern Ireland,Northern Ireland,2019,53.6
+Housing(net) fuel and power,England,North East,2020,60.2
+Housing(net) fuel and power,England,North West,2020,68.5
+Housing(net) fuel and power,England,Yorkshire and The Humber,2020,64.3
+Housing(net) fuel and power,England,East Midlands,2020,67.2
+Housing(net) fuel and power,England,West Midlands,2020,71.1
+Housing(net) fuel and power,England,East,2020,82.3
+Housing(net) fuel and power,England,London,2020,136.1
+Housing(net) fuel and power,England,South East,2020,84.9
+Housing(net) fuel and power,England,South West,2020,78.7
+Housing(net) fuel and power,Wales,Wales,2020,64.8
+Housing(net) fuel and power,Scotland,Scotland,2020,65.7
+Housing(net) fuel and power,Northern Ireland,Northern Ireland,2020,54.1
+Miscellaneous goods and services,England,North East,2015,31
+Miscellaneous goods and services,England,North West,2015,36.8
+Miscellaneous goods and services,England,Yorkshire and The Humber,2015,35.1
+Miscellaneous goods and services,England,East Midlands,2015,37.9
+Miscellaneous goods and services,England,West Midlands,2015,36.4
+Miscellaneous goods and services,England,East,2015,45.6
+Miscellaneous goods and services,England,London,2015,43.4
+Miscellaneous goods and services,England,South East,2015,47.8
+Miscellaneous goods and services,England,South West,2015,41.4
+Miscellaneous goods and services,Wales,Wales,2015,31.3
+Miscellaneous goods and services,Scotland,Scotland,2015,33.6
+Miscellaneous goods and services,Northern Ireland,Northern Ireland,2015,37.7
+Miscellaneous goods and services,England,North East,2016,29.3
+Miscellaneous goods and services,England,North West,2016,35.7
+Miscellaneous goods and services,England,Yorkshire and The Humber,2016,34
+Miscellaneous goods and services,England,East Midlands,2016,37.7
+Miscellaneous goods and services,England,West Midlands,2016,36.1
+Miscellaneous goods and services,England,East,2016,49.3
+Miscellaneous goods and services,England,London,2016,44.9
+Miscellaneous goods and services,England,South East,2016,48
+Miscellaneous goods and services,England,South West,2016,39.4
+Miscellaneous goods and services,Wales,Wales,2016,34.5
+Miscellaneous goods and services,Scotland,Scotland,2016,33.6
+Miscellaneous goods and services,Northern Ireland,Northern Ireland,2016,40.6
+Miscellaneous goods and services,England,North East,2017,29.7
+Miscellaneous goods and services,England,North West,2017,38
+Miscellaneous goods and services,England,Yorkshire and The Humber,2017,33.7
+Miscellaneous goods and services,England,East Midlands,2017,39.9
+Miscellaneous goods and services,England,West Midlands,2017,37.7
+Miscellaneous goods and services,England,East,2017,47
+Miscellaneous goods and services,England,London,2017,46
+Miscellaneous goods and services,England,South East,2017,49.2
+Miscellaneous goods and services,England,South West,2017,40.6
+Miscellaneous goods and services,Wales,Wales,2017,34.3
+Miscellaneous goods and services,Scotland,Scotland,2017,35.4
+Miscellaneous goods and services,Northern Ireland,Northern Ireland,2017,39.2
+Miscellaneous goods and services,England,North East,2018,30.8
+Miscellaneous goods and services,England,North West,2018,38.8
+Miscellaneous goods and services,England,Yorkshire and The Humber,2018,37.7
+Miscellaneous goods and services,England,East Midlands,2018,41.4
+Miscellaneous goods and services,England,West Midlands,2018,38.1
+Miscellaneous goods and services,England,East,2018,47.3
+Miscellaneous goods and services,England,London,2018,46.5
+Miscellaneous goods and services,England,South East,2018,50.5
+Miscellaneous goods and services,England,South West,2018,41.8
+Miscellaneous goods and services,Wales,Wales,2018,37.6
+Miscellaneous goods and services,Scotland,Scotland,2018,35.2
+Miscellaneous goods and services,Northern Ireland,Northern Ireland,2018,40.9
+Miscellaneous goods and services,England,North East,2019,34
+Miscellaneous goods and services,England,North West,2019,41.3
+Miscellaneous goods and services,England,Yorkshire and The Humber,2019,39.7
+Miscellaneous goods and services,England,East Midlands,2019,43.8
+Miscellaneous goods and services,England,West Midlands,2019,38.8
+Miscellaneous goods and services,England,East,2019,46.5
+Miscellaneous goods and services,England,London,2019,49.6
+Miscellaneous goods and services,England,South East,2019,52.8
+Miscellaneous goods and services,England,South West,2019,47.6
+Miscellaneous goods and services,Wales,Wales,2019,37.5
+Miscellaneous goods and services,Scotland,Scotland,2019,36.5
+Miscellaneous goods and services,Northern Ireland,Northern Ireland,2019,39.1
+Miscellaneous goods and services,England,North East,2020,34.3
+Miscellaneous goods and services,England,North West,2020,43.1
+Miscellaneous goods and services,England,Yorkshire and The Humber,2020,41.8
+Miscellaneous goods and services,England,East Midlands,2020,46.1
+Miscellaneous goods and services,England,West Midlands,2020,41.2
+Miscellaneous goods and services,England,East,2020,47.6
+Miscellaneous goods and services,England,London,2020,50.7
+Miscellaneous goods and services,England,South East,2020,54.1
+Miscellaneous goods and services,England,South West,2020,48.9
+Miscellaneous goods and services,Wales,Wales,2020,40
+Miscellaneous goods and services,Scotland,Scotland,2020,35.7
+Miscellaneous goods and services,Northern Ireland,Northern Ireland,2020,39.1
+Other expenditure items,England,North East,2015,57.8
+Other expenditure items,England,North West,2015,60.7
+Other expenditure items,England,Yorkshire and The Humber,2015,56.1
+Other expenditure items,England,East Midlands,2015,59.3
+Other expenditure items,England,West Midlands,2015,58.9
+Other expenditure items,England,East,2015,75.5
+Other expenditure items,England,London,2015,103.9
+Other expenditure items,England,South East,2015,85.3
+Other expenditure items,England,South West,2015,71.4
+Other expenditure items,Wales,Wales,2015,56.8
+Other expenditure items,Scotland,Scotland,2015,61.9
+Other expenditure items,Northern Ireland,Northern Ireland,2015,53.6
+Other expenditure items,England,North East,2016,53.2
+Other expenditure items,England,North West,2016,59.4
+Other expenditure items,England,Yorkshire and The Humber,2016,61.4
+Other expenditure items,England,East Midlands,2016,67.5
+Other expenditure items,England,West Midlands,2016,55.9
+Other expenditure items,England,East,2016,75.5
+Other expenditure items,England,London,2016,107.5
+Other expenditure items,England,South East,2016,86.2
+Other expenditure items,England,South West,2016,77.5
+Other expenditure items,Wales,Wales,2016,57.7
+Other expenditure items,Scotland,Scotland,2016,61
+Other expenditure items,Northern Ireland,Northern Ireland,2016,53.6
+Other expenditure items,England,North East,2017,48.9
+Other expenditure items,England,North West,2017,59.3
+Other expenditure items,England,Yorkshire and The Humber,2017,66.6
+Other expenditure items,England,East Midlands,2017,69.2
+Other expenditure items,England,West Midlands,2017,56
+Other expenditure items,England,East,2017,70.7
+Other expenditure items,England,London,2017,92.7
+Other expenditure items,England,South East,2017,88.7
+Other expenditure items,England,South West,2017,77.4
+Other expenditure items,Wales,Wales,2017,60.9
+Other expenditure items,Scotland,Scotland,2017,61.5
+Other expenditure items,Northern Ireland,Northern Ireland,2017,54.2
+Other expenditure items,England,North East,2018,49.3
+Other expenditure items,England,North West,2018,62.8
+Other expenditure items,England,Yorkshire and The Humber,2018,69.5
+Other expenditure items,England,East Midlands,2018,72.4
+Other expenditure items,England,West Midlands,2018,58.6
+Other expenditure items,England,East,2018,73.5
+Other expenditure items,England,London,2018,100.2
+Other expenditure items,England,South East,2018,91.9
+Other expenditure items,England,South West,2018,84.2
+Other expenditure items,Wales,Wales,2018,60.6
+Other expenditure items,Scotland,Scotland,2018,62.8
+Other expenditure items,Northern Ireland,Northern Ireland,2018,50.5
+Other expenditure items,England,North East,2019,55.8
+Other expenditure items,England,North West,2019,66.4
+Other expenditure items,England,Yorkshire and The Humber,2019,67.1
+Other expenditure items,England,East Midlands,2019,70.1
+Other expenditure items,England,West Midlands,2019,63.8
+Other expenditure items,England,East,2019,76.8
+Other expenditure items,England,London,2019,102.6
+Other expenditure items,England,South East,2019,95.2
+Other expenditure items,England,South West,2019,77.7
+Other expenditure items,Wales,Wales,2019,60.8
+Other expenditure items,Scotland,Scotland,2019,64.1
+Other expenditure items,Northern Ireland,Northern Ireland,2019,52.3
+Other expenditure items,England,North East,2020,58.7
+Other expenditure items,England,North West,2020,68.2
+Other expenditure items,England,Yorkshire and The Humber,2020,63.8
+Other expenditure items,England,East Midlands,2020,73.6
+Other expenditure items,England,West Midlands,2020,66.3
+Other expenditure items,England,East,2020,80.7
+Other expenditure items,England,London,2020,108.1
+Other expenditure items,England,South East,2020,99.7
+Other expenditure items,England,South West,2020,82.8
+Other expenditure items,Wales,Wales,2020,61.3
+Other expenditure items,Scotland,Scotland,2020,65.3
+Other expenditure items,Northern Ireland,Northern Ireland,2020,50.4
+Recreation and culture,England,North East,2015,59.6
+Recreation and culture,England,North West,2015,65.1
+Recreation and culture,England,Yorkshire and The Humber,2015,61.1
+Recreation and culture,England,East Midlands,2015,68
+Recreation and culture,England,West Midlands,2015,56.1
+Recreation and culture,England,East,2015,69
+Recreation and culture,England,London,2015,70.2
+Recreation and culture,England,South East,2015,75.8
+Recreation and culture,England,South West,2015,67.3
+Recreation and culture,Wales,Wales,2015,57.8
+Recreation and culture,Scotland,Scotland,2015,61
+Recreation and culture,Northern Ireland,Northern Ireland,2015,56.9
+Recreation and culture,England,North East,2016,60.1
+Recreation and culture,England,North West,2016,65.2
+Recreation and culture,England,Yorkshire and The Humber,2016,66.4
+Recreation and culture,England,East Midlands,2016,67.9
+Recreation and culture,England,West Midlands,2016,54.6
+Recreation and culture,England,East,2016,72.6
+Recreation and culture,England,London,2016,72.6
+Recreation and culture,England,South East,2016,82.1
+Recreation and culture,England,South West,2016,65.9
+Recreation and culture,Wales,Wales,2016,60.3
+Recreation and culture,Scotland,Scotland,2016,63.2
+Recreation and culture,Northern Ireland,Northern Ireland,2016,59.5
+Recreation and culture,England,North East,2017,65.2
+Recreation and culture,England,North West,2017,70.5
+Recreation and culture,England,Yorkshire and The Humber,2017,69.4
+Recreation and culture,England,East Midlands,2017,67.2
+Recreation and culture,England,West Midlands,2017,58.5
+Recreation and culture,England,East,2017,70.3
+Recreation and culture,England,London,2017,71.5
+Recreation and culture,England,South East,2017,86.2
+Recreation and culture,England,South West,2017,71.7
+Recreation and culture,Wales,Wales,2017,57.7
+Recreation and culture,Scotland,Scotland,2017,70.4
+Recreation and culture,Northern Ireland,Northern Ireland,2017,57.1
+Recreation and culture,England,North East,2018,72.8
+Recreation and culture,England,North West,2018,67.6
+Recreation and culture,England,Yorkshire and The Humber,2018,72.8
+Recreation and culture,England,East Midlands,2018,66.7
+Recreation and culture,England,West Midlands,2018,63.7
+Recreation and culture,England,East,2018,75.7
+Recreation and culture,England,London,2018,64.6
+Recreation and culture,England,South East,2018,93.6
+Recreation and culture,England,South West,2018,77.6
+Recreation and culture,Wales,Wales,2018,63.4
+Recreation and culture,Scotland,Scotland,2018,69.4
+Recreation and culture,Northern Ireland,Northern Ireland,2018,53.7
+Recreation and culture,England,North East,2019,77.1
+Recreation and culture,England,North West,2019,68.2
+Recreation and culture,England,Yorkshire and The Humber,2019,74.3
+Recreation and culture,England,East Midlands,2019,72.4
+Recreation and culture,England,West Midlands,2019,66.1
+Recreation and culture,England,East,2019,78.4
+Recreation and culture,England,London,2019,66
+Recreation and culture,England,South East,2019,99.7
+Recreation and culture,England,South West,2019,82.3
+Recreation and culture,Wales,Wales,2019,70.9
+Recreation and culture,Scotland,Scotland,2019,70.5
+Recreation and culture,Northern Ireland,Northern Ireland,2019,52
+Recreation and culture,England,North East,2020,72.2
+Recreation and culture,England,North West,2020,66.7
+Recreation and culture,England,Yorkshire and The Humber,2020,72.8
+Recreation and culture,England,East Midlands,2020,75.8
+Recreation and culture,England,West Midlands,2020,68.4
+Recreation and culture,England,East,2020,81.2
+Recreation and culture,England,London,2020,64.9
+Recreation and culture,England,South East,2020,103.7
+Recreation and culture,England,South West,2020,82.3
+Recreation and culture,Wales,Wales,2020,74.4
+Recreation and culture,Scotland,Scotland,2020,67
+Recreation and culture,Northern Ireland,Northern Ireland,2020,51.7
+Restaurants and hotels,England,North East,2015,34.9
+Restaurants and hotels,England,North West,2015,38.4
+Restaurants and hotels,England,Yorkshire and The Humber,2015,38.4
+Restaurants and hotels,England,East Midlands,2015,35.5
+Restaurants and hotels,England,West Midlands,2015,36.1
+Restaurants and hotels,England,East,2015,42.5
+Restaurants and hotels,England,London,2015,54.7
+Restaurants and hotels,England,South East,2015,45.4
+Restaurants and hotels,England,South West,2015,40.8
+Restaurants and hotels,Wales,Wales,2015,34
+Restaurants and hotels,Scotland,Scotland,2015,39
+Restaurants and hotels,Northern Ireland,Northern Ireland,2015,47.6
+Restaurants and hotels,England,North East,2016,36.4
+Restaurants and hotels,England,North West,2016,38.8
+Restaurants and hotels,England,Yorkshire and The Humber,2016,41.1
+Restaurants and hotels,England,East Midlands,2016,36.6
+Restaurants and hotels,England,West Midlands,2016,36.5
+Restaurants and hotels,England,East,2016,47.2
+Restaurants and hotels,England,London,2016,55.8
+Restaurants and hotels,England,South East,2016,49.1
+Restaurants and hotels,England,South West,2016,41.9
+Restaurants and hotels,Wales,Wales,2016,33
+Restaurants and hotels,Scotland,Scotland,2016,39.1
+Restaurants and hotels,Northern Ireland,Northern Ireland,2016,50.2
+Restaurants and hotels,England,North East,2017,38.6
+Restaurants and hotels,England,North West,2017,43.2
+Restaurants and hotels,England,Yorkshire and The Humber,2017,42.8
+Restaurants and hotels,England,East Midlands,2017,42.1
+Restaurants and hotels,England,West Midlands,2017,39.5
+Restaurants and hotels,England,East,2017,47.2
+Restaurants and hotels,England,London,2017,59.7
+Restaurants and hotels,England,South East,2017,52
+Restaurants and hotels,England,South West,2017,43.8
+Restaurants and hotels,Wales,Wales,2017,36.9
+Restaurants and hotels,Scotland,Scotland,2017,41.7
+Restaurants and hotels,Northern Ireland,Northern Ireland,2017,47.9
+Restaurants and hotels,England,North East,2018,40.3
+Restaurants and hotels,England,North West,2018,45.6
+Restaurants and hotels,England,Yorkshire and The Humber,2018,47.6
+Restaurants and hotels,England,East Midlands,2018,46.2
+Restaurants and hotels,England,West Midlands,2018,40.9
+Restaurants and hotels,England,East,2018,50.1
+Restaurants and hotels,England,London,2018,63
+Restaurants and hotels,England,South East,2018,54
+Restaurants and hotels,England,South West,2018,48.4
+Restaurants and hotels,Wales,Wales,2018,38.7
+Restaurants and hotels,Scotland,Scotland,2018,42.5
+Restaurants and hotels,Northern Ireland,Northern Ireland,2018,46.8
+Restaurants and hotels,England,North East,2019,45.7
+Restaurants and hotels,England,North West,2019,47.9
+Restaurants and hotels,England,Yorkshire and The Humber,2019,49.2
+Restaurants and hotels,England,East Midlands,2019,48.5
+Restaurants and hotels,England,West Midlands,2019,40.6
+Restaurants and hotels,England,East,2019,48.2
+Restaurants and hotels,England,London,2019,66.5
+Restaurants and hotels,England,South East,2019,58.8
+Restaurants and hotels,England,South West,2019,49.6
+Restaurants and hotels,Wales,Wales,2019,42.7
+Restaurants and hotels,Scotland,Scotland,2019,44.2
+Restaurants and hotels,Northern Ireland,Northern Ireland,2019,45.1
+Restaurants and hotels,England,North East,2020,44.6
+Restaurants and hotels,England,North West,2020,49.6
+Restaurants and hotels,England,Yorkshire and The Humber,2020,49.5
+Restaurants and hotels,England,East Midlands,2020,48.6
+Restaurants and hotels,England,West Midlands,2020,42.8
+Restaurants and hotels,England,East,2020,50.4
+Restaurants and hotels,England,London,2020,67
+Restaurants and hotels,England,South East,2020,59.9
+Restaurants and hotels,England,South West,2020,52.2
+Restaurants and hotels,Wales,Wales,2020,42.9
+Restaurants and hotels,Scotland,Scotland,2020,43.8
+Restaurants and hotels,Northern Ireland,Northern Ireland,2020,46.3
+Transport,England,North East,2015,53.3
+Transport,England,North West,2015,59
+Transport,England,Yorkshire and The Humber,2015,61
+Transport,England,East Midlands,2015,70.8
+Transport,England,West Midlands,2015,65.2
+Transport,England,East,2015,78.6
+Transport,England,London,2015,69
+Transport,England,South East,2015,87.4
+Transport,England,South West,2015,76.7
+Transport,Wales,Wales,2015,62.8
+Transport,Scotland,Scotland,2015,73.8
+Transport,Northern Ireland,Northern Ireland,2015,62
+Transport,England,North East,2016,52.1
+Transport,England,North West,2016,62.6
+Transport,England,Yorkshire and The Humber,2016,63.7
+Transport,England,East Midlands,2016,72.9
+Transport,England,West Midlands,2016,62.9
+Transport,England,East,2016,85.9
+Transport,England,London,2016,71.7
+Transport,England,South East,2016,91.9
+Transport,England,South West,2016,76.3
+Transport,Wales,Wales,2016,63.3
+Transport,Scotland,Scotland,2016,74
+Transport,Northern Ireland,Northern Ireland,2016,66.3
+Transport,England,North East,2017,58.5
+Transport,England,North West,2017,69.9
+Transport,England,Yorkshire and The Humber,2017,67.4
+Transport,England,East Midlands,2017,79.4
+Transport,England,West Midlands,2017,65.1
+Transport,England,East,2017,87.4
+Transport,England,London,2017,71.8
+Transport,England,South East,2017,95.7
+Transport,England,South West,2017,76.2
+Transport,Wales,Wales,2017,65.9
+Transport,Scotland,Scotland,2017,71.7
+Transport,Northern Ireland,Northern Ireland,2017,66.6
+Transport,England,North East,2018,62.9
+Transport,England,North West,2018,72.1
+Transport,England,Yorkshire and The Humber,2018,74
+Transport,England,East Midlands,2018,77.8
+Transport,England,West Midlands,2018,67.7
+Transport,England,East,2018,87.7
+Transport,England,London,2018,75.6
+Transport,England,South East,2018,98.7
+Transport,England,South West,2018,83.7
+Transport,Wales,Wales,2018,69.7
+Transport,Scotland,Scotland,2018,68.3
+Transport,Northern Ireland,Northern Ireland,2018,72.7
+Transport,England,North East,2019,74.8
+Transport,England,North West,2019,75.3
+Transport,England,Yorkshire and The Humber,2019,78.9
+Transport,England,East Midlands,2019,83.2
+Transport,England,West Midlands,2019,70.6
+Transport,England,East,2019,86.3
+Transport,England,London,2019,79.4
+Transport,England,South East,2019,100.3
+Transport,England,South West,2019,89.5
+Transport,Wales,Wales,2019,79.6
+Transport,Scotland,Scotland,2019,74.5
+Transport,Northern Ireland,Northern Ireland,2019,76.9
+Transport,England,North East,2020,73.9
+Transport,England,North West,2020,70.7
+Transport,England,Yorkshire and The Humber,2020,76.9
+Transport,England,East Midlands,2020,84.7
+Transport,England,West Midlands,2020,73.5
+Transport,England,East,2020,90.6
+Transport,England,London,2020,82.3
+Transport,England,South East,2020,100.3
+Transport,England,South West,2020,93.8
+Transport,Wales,Wales,2020,78.1
+Transport,Scotland,Scotland,2020,75.3
+Transport,Northern Ireland,Northern Ireland,2020,73.7
