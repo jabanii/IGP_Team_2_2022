@@ -1,0 +1,925 @@
+﻿Expenditure_Category,Socio_economic_classification,Year,Expenditure
+Food and non-alcoholic drinks,large employer and higher managerial,2015,79.4
+Food and non-alcoholic drinks,Higher professional,2015,72
+Food and non-alcoholic drinks,Lower managerial and professional,2015,65.7
+Food and non-alcoholic drinks,Intermediate,2015,57.3
+Food and non-alcoholic drinks,Small employers,2015,67.7
+Food and non-alcoholic drinks,Lower supervisory,2015,64
+Food and non-alcoholic drinks,Semi routine,2015,51.4
+Food and non-alcoholic drinks,Routine,2015,56.4
+Food and non-alcoholic drinks,Long term unemployed,2015,42.5
+Food and non-alcoholic drinks,Students,2015,51.6
+Food and non-alcoholic drinks,occupation not stated ,2015,47.9
+"Alcoholic drinks, tobacco and narcotics",large employer and higher managerial,2015,16.2
+"Alcoholic drinks, tobacco and narcotics",Higher professional,2015,13
+"Alcoholic drinks, tobacco and narcotics",Lower managerial and professional,2015,13.3
+"Alcoholic drinks, tobacco and narcotics",Intermediate,2015,10.6
+"Alcoholic drinks, tobacco and narcotics",Small employers,2015,14.3
+"Alcoholic drinks, tobacco and narcotics",Lower supervisory,2015,16.4
+"Alcoholic drinks, tobacco and narcotics",Semi routine,2015,12.3
+"Alcoholic drinks, tobacco and narcotics",Routine,2015,12.9
+"Alcoholic drinks, tobacco and narcotics",Long term unemployed,2015,6.5
+"Alcoholic drinks, tobacco and narcotics",Students,2015,5.8
+"Alcoholic drinks, tobacco and narcotics",occupation not stated ,2015,9.8
+Clothing and footwear,large employer and higher managerial,2015,42.4
+Clothing and footwear,Higher professional,2015,35.5
+Clothing and footwear,Lower managerial and professional,2015,33.4
+Clothing and footwear,Intermediate,2015,24.2
+Clothing and footwear,Small employers,2015,28.2
+Clothing and footwear,Lower supervisory,2015,28.9
+Clothing and footwear,Semi routine,2015,21
+Clothing and footwear,Routine,2015,18.7
+Clothing and footwear,Long term unemployed,2015,16.7
+Clothing and footwear,Students,2015,23
+Clothing and footwear,occupation not stated ,2015,12.2
+"Housing (net)2, fuel and power",large employer and higher managerial,2015,80.5
+"Housing (net)2, fuel and power",Higher professional,2015,97.6
+"Housing (net)2, fuel and power",Lower managerial and professional,2015,78.3
+"Housing (net)2, fuel and power",Intermediate,2015,73.8
+"Housing (net)2, fuel and power",Small employers,2015,72.8
+"Housing (net)2, fuel and power",Lower supervisory,2015,77.4
+"Housing (net)2, fuel and power",Semi routine,2015,77.6
+"Housing (net)2, fuel and power",Routine,2015,77.4
+"Housing (net)2, fuel and power",Long term unemployed,2015,50.9
+"Housing (net)2, fuel and power",Students,2015,207.3
+"Housing (net)2, fuel and power",occupation not stated ,2015,49.1
+Household goods and services,large employer and higher managerial,2015,63
+Household goods and services,Higher professional,2015,62.9
+Household goods and services,Lower managerial and professional,2015,49
+Household goods and services,Intermediate,2015,31.9
+Household goods and services,Small employers,2015,42.9
+Household goods and services,Lower supervisory,2015,37.3
+Household goods and services,Semi routine,2015,21.1
+Household goods and services,Routine,2015,24.1
+Household goods and services,Long term unemployed,2015,19.2
+Household goods and services,Students,2015,27.5
+Household goods and services,occupation not stated ,2015,26.8
+Health,large employer and higher managerial,2015,10.2
+Health,Higher professional,2015,9.3
+Health,Lower managerial and professional,2015,7.8
+Health,Intermediate,2015,4.2
+Health,Small employers,2015,6.6
+Health,Lower supervisory,2015,6.1
+Health,Semi routine,2015,4.6
+Health,Routine,2015,4.2
+Health,Long term unemployed,2015,1.9
+Health,Students,2015,2.7
+Health,occupation not stated ,2015,8.5
+Transport,large employer and higher managerial,2015,136.6
+Transport,Higher professional,2015,122.9
+Transport,Lower managerial and professional,2015,108.3
+Transport,Intermediate,2015,75.6
+Transport,Small employers,2015,83.9
+Transport,Lower supervisory,2015,80.4
+Transport,Semi routine,2015,55.7
+Transport,Routine,2015,47.2
+Transport,Long term unemployed,2015,16.7
+Transport,Students,2015,61.1
+Transport,occupation not stated ,2015,40.4
+Communication,large employer and higher managerial,2015,21.2
+Communication,Higher professional,2015,18.5
+Communication,Lower managerial and professional,2015,19.1
+Communication,Intermediate,2015,16.9
+Communication,Small employers,2015,17.7
+Communication,Lower supervisory,2015,17.9
+Communication,Semi routine,2015,14.8
+Communication,Routine,2015,15.9
+Communication,Long term unemployed,2015,9.9
+Communication,Students,2015,21.1
+Communication,occupation not stated ,2015,10.4
+Recreation and culture,large employer and higher managerial,2015,145.9
+Recreation and culture,Higher professional,2015,107.6
+Recreation and culture,Lower managerial and professional,2015,91.5
+Recreation and culture,Intermediate,2015,66.5
+Recreation and culture,Small employers,2015,68.9
+Recreation and culture,Lower supervisory,2015,64.1
+Recreation and culture,Semi routine,2015,43.5
+Recreation and culture,Routine,2015,46.2
+Recreation and culture,Long term unemployed,2015,40.1
+Recreation and culture,Students,2015,47.2
+Recreation and culture,occupation not stated ,2015,53.4
+Education,large employer and higher managerial,2015,11.2
+Education,Higher professional,2015,20.1
+Education,Lower managerial and professional,2015,11.8
+Education,Intermediate,2015,5.7
+Education,Small employers,2015,6.2
+Education,Lower supervisory,2015,2.6
+Education,Semi routine,2015,0.6
+Education,Routine,2015,1.2
+Education,Long term unemployed,2015,0.8
+Education,Students,2015,147.5
+Education,occupation not stated ,2015,1
+Restaurants and hotels,large employer and higher managerial,2015,77.8
+Restaurants and hotels,Higher professional,2015,71.2
+Restaurants and hotels,Lower managerial and professional,2015,60.3
+Restaurants and hotels,Intermediate,2015,39.7
+Restaurants and hotels,Small employers,2015,47
+Restaurants and hotels,Lower supervisory,2015,47.2
+Restaurants and hotels,Semi routine,2015,30.2
+Restaurants and hotels,Routine,2015,28.9
+Restaurants and hotels,Long term unemployed,2015,19.5
+Restaurants and hotels,Students,2015,52.2
+Restaurants and hotels,occupation not stated ,2015,25
+Miscellaneous goods and services,large employer and higher managerial,2015,81.4
+Miscellaneous goods and services,Higher professional,2015,60
+Miscellaneous goods and services,Lower managerial and professional,2015,58
+Miscellaneous goods and services,Intermediate,2015,41
+Miscellaneous goods and services,Small employers,2015,44.5
+Miscellaneous goods and services,Lower supervisory,2015,41.8
+Miscellaneous goods and services,Semi routine,2015,29
+Miscellaneous goods and services,Routine,2015,28
+Miscellaneous goods and services,Long term unemployed,2015,30.9
+Miscellaneous goods and services,Students,2015,31.1
+Miscellaneous goods and services,occupation not stated ,2015,25.2
+All expenditure groups,large employer and higher managerial,2015,765.9
+All expenditure groups,Higher professional,2015,690.4
+All expenditure groups,Lower managerial and professional,2015,596.4
+All expenditure groups,Intermediate,2015,447.3
+All expenditure groups,Small employers,2015,500.6
+All expenditure groups,Lower supervisory,2015,483.9
+All expenditure groups,Semi routine,2015,361.9
+All expenditure groups,Routine,2015,361
+All expenditure groups,Long term unemployed,2015,255.6
+All expenditure groups,Students,2015,678.1
+All expenditure groups,occupation not stated ,2015,309.6
+Other expenditure items,large employer and higher managerial,2015,135.5
+Other expenditure items,Higher professional,2015,114
+Other expenditure items,Lower managerial and professional,2015,101.2
+Other expenditure items,Intermediate,2015,78
+Other expenditure items,Small employers,2015,71.1
+Other expenditure items,Lower supervisory,2015,67.7
+Other expenditure items,Semi routine,2015,46.7
+Other expenditure items,Routine,2015,46.5
+Other expenditure items,Long term unemployed,2015,10.2
+Other expenditure items,Students,2015,33.9
+Other expenditure items,occupation not stated ,2015,35.9
+Food and non-alcoholic drinks,large employer and higher managerial,2016,79.7
+Food and non-alcoholic drinks,Higher professional,2016,68.9
+Food and non-alcoholic drinks,Lower managerial and professional,2016,63.9
+Food and non-alcoholic drinks,Intermediate,2016,56.1
+Food and non-alcoholic drinks,Small employers,2016,59.4
+Food and non-alcoholic drinks,Lower supervisory,2016,59.2
+Food and non-alcoholic drinks,Semi routine,2016,49.6
+Food and non-alcoholic drinks,Routine,2016,54.2
+Food and non-alcoholic drinks,Long term unemployed,2016,42.5
+Food and non-alcoholic drinks,Students,2016,51.3
+Food and non-alcoholic drinks,occupation not stated ,2016,48.7
+"Alcoholic drinks, tobacco and narcotics",large employer and higher managerial,2016,14.8
+"Alcoholic drinks, tobacco and narcotics",Higher professional,2016,12.7
+"Alcoholic drinks, tobacco and narcotics",Lower managerial and professional,2016,12
+"Alcoholic drinks, tobacco and narcotics",Intermediate,2016,10.1
+"Alcoholic drinks, tobacco and narcotics",Small employers,2016,13.5
+"Alcoholic drinks, tobacco and narcotics",Lower supervisory,2016,11.1
+"Alcoholic drinks, tobacco and narcotics",Semi routine,2016,11.6
+"Alcoholic drinks, tobacco and narcotics",Routine,2016,13.3
+"Alcoholic drinks, tobacco and narcotics",Long term unemployed,2016,5.8
+"Alcoholic drinks, tobacco and narcotics",Students,2016,8.9
+"Alcoholic drinks, tobacco and narcotics",occupation not stated ,2016,9.9
+Clothing and footwear,large employer and higher managerial,2016,46.3
+Clothing and footwear,Higher professional,2016,28.1
+Clothing and footwear,Lower managerial and professional,2016,32.2
+Clothing and footwear,Intermediate,2016,25
+Clothing and footwear,Small employers,2016,21.4
+Clothing and footwear,Lower supervisory,2016,27
+Clothing and footwear,Semi routine,2016,18.9
+Clothing and footwear,Routine,2016,23
+Clothing and footwear,Long term unemployed,2016,14.7
+Clothing and footwear,Students,2016,26
+Clothing and footwear,occupation not stated ,2016,15
+"Housing (net)2, fuel and power",large employer and higher managerial,2016,89.4
+"Housing (net)2, fuel and power",Higher professional,2016,91
+"Housing (net)2, fuel and power",Lower managerial and professional,2016,79.8
+"Housing (net)2, fuel and power",Intermediate,2016,64.6
+"Housing (net)2, fuel and power",Small employers,2016,78.9
+"Housing (net)2, fuel and power",Lower supervisory,2016,86
+"Housing (net)2, fuel and power",Semi routine,2016,80.6
+"Housing (net)2, fuel and power",Routine,2016,82.1
+"Housing (net)2, fuel and power",Long term unemployed,2016,56.1
+"Housing (net)2, fuel and power",Students,2016,153
+"Housing (net)2, fuel and power",occupation not stated ,2016,48.6
+Household goods and services,large employer and higher managerial,2016,53.6
+Household goods and services,Higher professional,2016,54.5
+Household goods and services,Lower managerial and professional,2016,46.1
+Household goods and services,Intermediate,2016,25.9
+Household goods and services,Small employers,2016,32.7
+Household goods and services,Lower supervisory,2016,34.9
+Household goods and services,Semi routine,2016,25.2
+Household goods and services,Routine,2016,28.8
+Household goods and services,Long term unemployed,2016,13
+Household goods and services,Students,2016,21
+Household goods and services,occupation not stated ,2016,29.8
+Health,large employer and higher managerial,2016,10.1
+Health,Higher professional,2016,11.2
+Health,Lower managerial and professional,2016,8.8
+Health,Intermediate,2016,6.4
+Health,Small employers,2016,7.7
+Health,Lower supervisory,2016,4.8
+Health,Semi routine,2016,2.9
+Health,Routine,2016,3.6
+Health,Long term unemployed,2016,1.7
+Health,Students,2016,2.2
+Health,occupation not stated ,2016,7.7
+Transport,large employer and higher managerial,2016,165.6
+Transport,Higher professional,2016,121.6
+Transport,Lower managerial and professional,2016,102
+Transport,Intermediate,2016,66.1
+Transport,Small employers,2016,68.8
+Transport,Lower supervisory,2016,81.2
+Transport,Semi routine,2016,49.9
+Transport,Routine,2016,51.8
+Transport,Long term unemployed,2016,31.4
+Transport,Students,2016,65.5
+Transport,occupation not stated ,2016,42.5
+Communication,large employer and higher managerial,2016,22.9
+Communication,Higher professional,2016,20.1
+Communication,Lower managerial and professional,2016,19.6
+Communication,Intermediate,2016,16.9
+Communication,Small employers,2016,16.8
+Communication,Lower supervisory,2016,18.7
+Communication,Semi routine,2016,15.5
+Communication,Routine,2016,16.6
+Communication,Long term unemployed,2016,9.8
+Communication,Students,2016,17.5
+Communication,occupation not stated ,2016,10.8
+Recreation and culture,large employer and higher managerial,2016,129.8
+Recreation and culture,Higher professional,2016,95.4
+Recreation and culture,Lower managerial and professional,2016,95.2
+Recreation and culture,Intermediate,2016,67
+Recreation and culture,Small employers,2016,61.5
+Recreation and culture,Lower supervisory,2016,53.6
+Recreation and culture,Semi routine,2016,44.8
+Recreation and culture,Routine,2016,49.1
+Recreation and culture,Long term unemployed,2016,27.2
+Recreation and culture,Students,2016,42.8
+Recreation and culture,occupation not stated ,2016,54
+Education,large employer and higher managerial,2016,28.3
+Education,Higher professional,2016,9.7
+Education,Lower managerial and professional,2016,9.6
+Education,Intermediate,2016,3.2
+Education,Small employers,2016,6.4
+Education,Lower supervisory,2016,4.2
+Education,Semi routine,2016,2.1
+Education,Routine,2016,2.6
+Education,Long term unemployed,2016,0.4
+Education,Students,2016,90.3
+Education,occupation not stated ,2016,1.4
+Restaurants and hotels,large employer and higher managerial,2016,92.7
+Restaurants and hotels,Higher professional,2016,68.8
+Restaurants and hotels,Lower managerial and professional,2016,61.2
+Restaurants and hotels,Intermediate,2016,40.7
+Restaurants and hotels,Small employers,2016,51.8
+Restaurants and hotels,Lower supervisory,2016,46.7
+Restaurants and hotels,Semi routine,2016,32.7
+Restaurants and hotels,Routine,2016,33.1
+Restaurants and hotels,Long term unemployed,2016,17.2
+Restaurants and hotels,Students,2016,47.7
+Restaurants and hotels,occupation not stated ,2016,28.7
+Miscellaneous goods and services,large employer and higher managerial,2016,71.4
+Miscellaneous goods and services,Higher professional,2016,60.1
+Miscellaneous goods and services,Lower managerial and professional,2016,48.4
+Miscellaneous goods and services,Intermediate,2016,38
+Miscellaneous goods and services,Small employers,2016,42.1
+Miscellaneous goods and services,Lower supervisory,2016,45.6
+Miscellaneous goods and services,Semi routine,2016,31.6
+Miscellaneous goods and services,Routine,2016,29.5
+Miscellaneous goods and services,Long term unemployed,2016,15.4
+Miscellaneous goods and services,Students,2016,25.6
+Miscellaneous goods and services,occupation not stated ,2016,29.4
+All expenditure groups,large employer and higher managerial,2016,804.6
+All expenditure groups,Higher professional,2016,642.1
+All expenditure groups,Lower managerial and professional,2016,578.8
+All expenditure groups,Intermediate,2016,420
+All expenditure groups,Small employers,2016,461
+All expenditure groups,Lower supervisory,2016,472.8
+All expenditure groups,Semi routine,2016,365.4
+All expenditure groups,Routine,2016,387.7
+All expenditure groups,Long term unemployed,2016,235.3
+All expenditure groups,Students,2016,551.7
+All expenditure groups,occupation not stated ,2016,326.5
+Other expenditure items,large employer and higher managerial,2016,137.1
+Other expenditure items,Higher professional,2016,120.9
+Other expenditure items,Lower managerial and professional,2016,124.5
+Other expenditure items,Intermediate,2016,62.5
+Other expenditure items,Small employers,2016,78.9
+Other expenditure items,Lower supervisory,2016,70.5
+Other expenditure items,Semi routine,2016,46.5
+Other expenditure items,Routine,2016,39.7
+Other expenditure items,Long term unemployed,2016,11.5
+Other expenditure items,Students,2016,40.5
+Other expenditure items,occupation not stated ,2016,41.3
+Food and non-alcoholic drinks,large employer and higher managerial,2017,75.2
+Food and non-alcoholic drinks,Higher professional,2017,71.8
+Food and non-alcoholic drinks,Lower managerial and professional,2017,65.3
+Food and non-alcoholic drinks,Intermediate,2017,55
+Food and non-alcoholic drinks,Small employers,2017,69.3
+Food and non-alcoholic drinks,Lower supervisory,2017,60.1
+Food and non-alcoholic drinks,Semi routine,2017,51.4
+Food and non-alcoholic drinks,Routine,2017,55
+Food and non-alcoholic drinks,Long term unemployed,2017,39.7
+Food and non-alcoholic drinks,Students,2017,41.2
+Food and non-alcoholic drinks,occupation not stated ,2017,47.8
+"Alcoholic drinks, tobacco and narcotics",large employer and higher managerial,2017,14.4
+"Alcoholic drinks, tobacco and narcotics",Higher professional,2017,13.2
+"Alcoholic drinks, tobacco and narcotics",Lower managerial and professional,2017,13
+"Alcoholic drinks, tobacco and narcotics",Intermediate,2017,10.6
+"Alcoholic drinks, tobacco and narcotics",Small employers,2017,12.6
+"Alcoholic drinks, tobacco and narcotics",Lower supervisory,2017,15.9
+"Alcoholic drinks, tobacco and narcotics",Semi routine,2017,10.6
+"Alcoholic drinks, tobacco and narcotics",Routine,2017,12.9
+"Alcoholic drinks, tobacco and narcotics",Long term unemployed,2017,9.1
+"Alcoholic drinks, tobacco and narcotics",Students,2017,8.2
+"Alcoholic drinks, tobacco and narcotics",occupation not stated ,2017,10.3
+Clothing and footwear,large employer and higher managerial,2017,38.5
+Clothing and footwear,Higher professional,2017,36.7
+Clothing and footwear,Lower managerial and professional,2017,34.2
+Clothing and footwear,Intermediate,2017,27.2
+Clothing and footwear,Small employers,2017,28
+Clothing and footwear,Lower supervisory,2017,31.6
+Clothing and footwear,Semi routine,2017,18.8
+Clothing and footwear,Routine,2017,20.9
+Clothing and footwear,Long term unemployed,2017,9.8
+Clothing and footwear,Students,2017,18.9
+Clothing and footwear,occupation not stated ,2017,14.8
+"Housing (net)2, fuel and power",large employer and higher managerial,2017,82.5
+"Housing (net)2, fuel and power",Higher professional,2017,90.3
+"Housing (net)2, fuel and power",Lower managerial and professional,2017,82.9
+"Housing (net)2, fuel and power",Intermediate,2017,71.6
+"Housing (net)2, fuel and power",Small employers,2017,79.4
+"Housing (net)2, fuel and power",Lower supervisory,2017,86
+"Housing (net)2, fuel and power",Semi routine,2017,84.6
+"Housing (net)2, fuel and power",Routine,2017,80
+"Housing (net)2, fuel and power",Long term unemployed,2017,50.6
+"Housing (net)2, fuel and power",Students,2017,163.7
+"Housing (net)2, fuel and power",occupation not stated ,2017,47.8
+Household goods and services,large employer and higher managerial,2017,78.8
+Household goods and services,Higher professional,2017,60.7
+Household goods and services,Lower managerial and professional,2017,50.3
+Household goods and services,Intermediate,2017,30.3
+Household goods and services,Small employers,2017,35.4
+Household goods and services,Lower supervisory,2017,32
+Household goods and services,Semi routine,2017,26.8
+Household goods and services,Routine,2017,30.1
+Household goods and services,Long term unemployed,2017,14.7
+Household goods and services,Students,2017,20.5
+Household goods and services,occupation not stated ,2017,31.1
+Health,large employer and higher managerial,2017,8.9
+Health,Higher professional,2017,9.9
+Health,Lower managerial and professional,2017,8.6
+Health,Intermediate,2017,6.3
+Health,Small employers,2017,6.5
+Health,Lower supervisory,2017,6.7
+Health,Semi routine,2017,4.4
+Health,Routine,2017,3.7
+Health,Long term unemployed,2017,3.7
+Health,Students,2017,5.2
+Health,occupation not stated ,2017,7.7
+Transport,large employer and higher managerial,2017,137.5
+Transport,Higher professional,2017,123.4
+Transport,Lower managerial and professional,2017,109.1
+Transport,Intermediate,2017,77.5
+Transport,Small employers,2017,95.3
+Transport,Lower supervisory,2017,81.2
+Transport,Semi routine,2017,51.5
+Transport,Routine,2017,61.3
+Transport,Long term unemployed,2017,19.2
+Transport,Students,2017,51.9
+Transport,occupation not stated ,2017,50.3
+Communication,large employer and higher managerial,2017,23.6
+Communication,Higher professional,2017,20.2
+Communication,Lower managerial and professional,2017,20.8
+Communication,Intermediate,2017,18.6
+Communication,Small employers,2017,19.1
+Communication,Lower supervisory,2017,20.2
+Communication,Semi routine,2017,16.4
+Communication,Routine,2017,16.8
+Communication,Long term unemployed,2017,11.8
+Communication,Students,2017,14.2
+Communication,occupation not stated ,2017,12.3
+Recreation and culture,large employer and higher managerial,2017,144.2
+Recreation and culture,Higher professional,2017,100.9
+Recreation and culture,Lower managerial and professional,2017,93.5
+Recreation and culture,Intermediate,2017,61.6
+Recreation and culture,Small employers,2017,71.2
+Recreation and culture,Lower supervisory,2017,65.8
+Recreation and culture,Semi routine,2017,53.6
+Recreation and culture,Routine,2017,53.8
+Recreation and culture,Long term unemployed,2017,16.2
+Recreation and culture,Students,2017,56.1
+Recreation and culture,occupation not stated ,2017,59.5
+Education,large employer and higher managerial,2017,20.6
+Education,Higher professional,2017,18.6
+Education,Lower managerial and professional,2017,7.3
+Education,Intermediate,2017,4.2
+Education,Small employers,2017,1.7
+Education,Lower supervisory,2017,2.9
+Education,Semi routine,2017,0.8
+Education,Routine,2017,1.9
+Education,Long term unemployed,2017,5.7
+Education,Students,2017,5.7
+Education,occupation not stated ,2017,0.5
+Restaurants and hotels,large employer and higher managerial,2017,92.4
+Restaurants and hotels,Higher professional,2017,79.3
+Restaurants and hotels,Lower managerial and professional,2017,68.9
+Restaurants and hotels,Intermediate,2017,47.1
+Restaurants and hotels,Small employers,2017,53.9
+Restaurants and hotels,Lower supervisory,2017,49.1
+Restaurants and hotels,Semi routine,2017,32.7
+Restaurants and hotels,Routine,2017,36.3
+Restaurants and hotels,Long term unemployed,2017,25.8
+Restaurants and hotels,Students,2017,56.5
+Restaurants and hotels,occupation not stated ,2017,30.7
+Miscellaneous goods and services,large employer and higher managerial,2017,70.2
+Miscellaneous goods and services,Higher professional,2017,65.7
+Miscellaneous goods and services,Lower managerial and professional,2017,55.2
+Miscellaneous goods and services,Intermediate,2017,42.5
+Miscellaneous goods and services,Small employers,2017,43.7
+Miscellaneous goods and services,Lower supervisory,2017,37.8
+Miscellaneous goods and services,Semi routine,2017,27.3
+Miscellaneous goods and services,Routine,2017,28.7
+Miscellaneous goods and services,Long term unemployed,2017,12.1
+Miscellaneous goods and services,Students,2017,40.6
+Miscellaneous goods and services,occupation not stated ,2017,29.3
+All expenditure groups,large employer and higher managerial,2017,787
+All expenditure groups,Higher professional,2017,690.6
+All expenditure groups,Lower managerial and professional,2017,609.1
+All expenditure groups,Intermediate,2017,452.3
+All expenditure groups,Small employers,2017,516
+All expenditure groups,Lower supervisory,2017,489.3
+All expenditure groups,Semi routine,2017,378.8
+All expenditure groups,Routine,2017,401.3
+All expenditure groups,Long term unemployed,2017,212.9
+All expenditure groups,Students,2017,535.5
+All expenditure groups,occupation not stated ,2017,342.2
+Other expenditure items,large employer and higher managerial,2017,159.1
+Other expenditure items,Higher professional,2017,122.5
+Other expenditure items,Lower managerial and professional,2017,99.5
+Other expenditure items,Intermediate,2017,73.8
+Other expenditure items,Small employers,2017,72.1
+Other expenditure items,Lower supervisory,2017,76.1
+Other expenditure items,Semi routine,2017,41.5
+Other expenditure items,Routine,2017,51.6
+Other expenditure items,Long term unemployed,2017,12.5
+Other expenditure items,Students,2017,34.4
+Other expenditure items,occupation not stated ,2017,41
+Food and non-alcoholic drinks,large employer and higher managerial,2018,78.1
+Food and non-alcoholic drinks,Higher professional,2018,71
+Food and non-alcoholic drinks,Lower managerial and professional,2018,67.1
+Food and non-alcoholic drinks,Intermediate,2018,60.7
+Food and non-alcoholic drinks,Small employers,2018,70.1
+Food and non-alcoholic drinks,Lower supervisory,2018,65.4
+Food and non-alcoholic drinks,Semi routine,2018,59.2
+Food and non-alcoholic drinks,Routine,2018,59.3
+Food and non-alcoholic drinks,Long term unemployed,2018,44.2
+Food and non-alcoholic drinks,Students,2018,48.3
+Food and non-alcoholic drinks,occupation not stated ,2018,50.3
+"Alcoholic drinks, tobacco and narcotics",large employer and higher managerial,2018,14.2
+"Alcoholic drinks, tobacco and narcotics",Higher professional,2018,13.1
+"Alcoholic drinks, tobacco and narcotics",Lower managerial and professional,2018,13.6
+"Alcoholic drinks, tobacco and narcotics",Intermediate,2018,13.4
+"Alcoholic drinks, tobacco and narcotics",Small employers,2018,15.3
+"Alcoholic drinks, tobacco and narcotics",Lower supervisory,2018,13.9
+"Alcoholic drinks, tobacco and narcotics",Semi routine,2018,13.7
+"Alcoholic drinks, tobacco and narcotics",Routine,2018,13.7
+"Alcoholic drinks, tobacco and narcotics",Long term unemployed,2018,4.5
+"Alcoholic drinks, tobacco and narcotics",Students,2018,7.7
+"Alcoholic drinks, tobacco and narcotics",occupation not stated ,2018,10.6
+Clothing and footwear,large employer and higher managerial,2018,41.2
+Clothing and footwear,Higher professional,2018,36.3
+Clothing and footwear,Lower managerial and professional,2018,33.8
+Clothing and footwear,Intermediate,2018,20.7
+Clothing and footwear,Small employers,2018,26
+Clothing and footwear,Lower supervisory,2018,33.2
+Clothing and footwear,Semi routine,2018,22.2
+Clothing and footwear,Routine,2018,17.3
+Clothing and footwear,Long term unemployed,2018,10.7
+Clothing and footwear,Students,2018,29.9
+Clothing and footwear,occupation not stated ,2018,13.8
+"Housing (net)2, fuel and power",large employer and higher managerial,2018,78.4
+"Housing (net)2, fuel and power",Higher professional,2018,95.5
+"Housing (net)2, fuel and power",Lower managerial and professional,2018,87.2
+"Housing (net)2, fuel and power",Intermediate,2018,76.1
+"Housing (net)2, fuel and power",Small employers,2018,92.1
+"Housing (net)2, fuel and power",Lower supervisory,2018,84
+"Housing (net)2, fuel and power",Semi routine,2018,83.1
+"Housing (net)2, fuel and power",Routine,2018,87.7
+"Housing (net)2, fuel and power",Long term unemployed,2018,56.8
+"Housing (net)2, fuel and power",Students,2018,164.5
+"Housing (net)2, fuel and power",occupation not stated ,2018,48.2
+Household goods and services,large employer and higher managerial,2018,71.2
+Household goods and services,Higher professional,2018,58.5
+Household goods and services,Lower managerial and professional,2018,58.1
+Household goods and services,Intermediate,2018,33.7
+Household goods and services,Small employers,2018,43.5
+Household goods and services,Lower supervisory,2018,38.7
+Household goods and services,Semi routine,2018,22.4
+Household goods and services,Routine,2018,22.3
+Household goods and services,Long term unemployed,2018,15.7
+Household goods and services,Students,2018,19.3
+Household goods and services,occupation not stated ,2018,30.7
+Health,large employer and higher managerial,2018,8.9
+Health,Higher professional,2018,11
+Health,Lower managerial and professional,2018,7.2
+Health,Intermediate,2018,8
+Health,Small employers,2018,6.7
+Health,Lower supervisory,2018,7.4
+Health,Semi routine,2018,3.9
+Health,Routine,2018,2.7
+Health,Long term unemployed,2018,1.6
+Health,Students,2018,2.7
+Health,occupation not stated ,2018,7
+Transport,large employer and higher managerial,2018,149.2
+Transport,Higher professional,2018,121.2
+Transport,Lower managerial and professional,2018,112.1
+Transport,Intermediate,2018,78.2
+Transport,Small employers,2018,93.7
+Transport,Lower supervisory,2018,91.3
+Transport,Semi routine,2018,64.3
+Transport,Routine,2018,54.7
+Transport,Long term unemployed,2018,24.5
+Transport,Students,2018,60.6
+Transport,occupation not stated ,2018,45.6
+Communication,large employer and higher managerial,2018,25.7
+Communication,Higher professional,2018,21.8
+Communication,Lower managerial and professional,2018,22.1
+Communication,Intermediate,2018,18.8
+Communication,Small employers,2018,20.2
+Communication,Lower supervisory,2018,20.7
+Communication,Semi routine,2018,16.8
+Communication,Routine,2018,18.2
+Communication,Long term unemployed,2018,8.9
+Communication,Students,2018,14.7
+Communication,occupation not stated ,2018,12
+Recreation and culture,large employer and higher managerial,2018,146.6
+Recreation and culture,Higher professional,2018,104.9
+Recreation and culture,Lower managerial and professional,2018,93.4
+Recreation and culture,Intermediate,2018,64.7
+Recreation and culture,Small employers,2018,78.9
+Recreation and culture,Lower supervisory,2018,68.4
+Recreation and culture,Semi routine,2018,50.5
+Recreation and culture,Routine,2018,47.4
+Recreation and culture,Long term unemployed,2018,29.5
+Recreation and culture,Students,2018,54.9
+Recreation and culture,occupation not stated ,2018,59.6
+Education,large employer and higher managerial,2018,43.8
+Education,Higher professional,2018,11.6
+Education,Lower managerial and professional,2018,9
+Education,Intermediate,2018,2.5
+Education,Small employers,2018,7.1
+Education,Lower supervisory,2018,4.6
+Education,Semi routine,2018,0.9
+Education,Routine,2018,1.7
+Education,Long term unemployed,2018,8.7
+Education,Students,2018,114.4
+Education,occupation not stated ,2018,2.6
+Restaurants and hotels,large employer and higher managerial,2018,101.9
+Restaurants and hotels,Higher professional,2018,77.5
+Restaurants and hotels,Lower managerial and professional,2018,68.7
+Restaurants and hotels,Intermediate,2018,45.4
+Restaurants and hotels,Small employers,2018,58.2
+Restaurants and hotels,Lower supervisory,2018,50.4
+Restaurants and hotels,Semi routine,2018,34.5
+Restaurants and hotels,Routine,2018,28.9
+Restaurants and hotels,Long term unemployed,2018,14.2
+Restaurants and hotels,Students,2018,56.9
+Restaurants and hotels,occupation not stated ,2018,29.9
+Miscellaneous goods and services,large employer and higher managerial,2018,73.7
+Miscellaneous goods and services,Higher professional,2018,60.4
+Miscellaneous goods and services,Lower managerial and professional,2018,56.5
+Miscellaneous goods and services,Intermediate,2018,43.1
+Miscellaneous goods and services,Small employers,2018,43
+Miscellaneous goods and services,Lower supervisory,2018,43
+Miscellaneous goods and services,Semi routine,2018,33.1
+Miscellaneous goods and services,Routine,2018,30.9
+Miscellaneous goods and services,Long term unemployed,2018,13.8
+Miscellaneous goods and services,Students,2018,33.4
+Miscellaneous goods and services,occupation not stated ,2018,32.8
+All expenditure groups,large employer and higher managerial,2018,832.8
+All expenditure groups,Higher professional,2018,682.7
+All expenditure groups,Lower managerial and professional,2018,628.8
+All expenditure groups,Intermediate,2018,465.4
+All expenditure groups,Small employers,2018,554.9
+All expenditure groups,Lower supervisory,2018,520.8
+All expenditure groups,Semi routine,2018,404.5
+All expenditure groups,Routine,2018,384.7
+All expenditure groups,Long term unemployed,2018,243.6
+All expenditure groups,Students,2018,607.2
+All expenditure groups,occupation not stated ,2018,343.1
+Other expenditure items,large employer and higher managerial,2018,167.5
+Other expenditure items,Higher professional,2018,128
+Other expenditure items,Lower managerial and professional,2018,103.4
+Other expenditure items,Intermediate,2018,64.8
+Other expenditure items,Small employers,2018,76.5
+Other expenditure items,Lower supervisory,2018,67.4
+Other expenditure items,Semi routine,2018,50.4
+Other expenditure items,Routine,2018,51.6
+Other expenditure items,Long term unemployed,2018,18.9
+Other expenditure items,Students,2018,44.1
+Other expenditure items,occupation not stated ,2018,47.7
+Food and non-alcoholic drinks,large employer and higher managerial,2019,89.8
+Food and non-alcoholic drinks,Higher professional,2019,73
+Food and non-alcoholic drinks,Lower managerial and professional,2019,66.4
+Food and non-alcoholic drinks,Intermediate,2019,59.7
+Food and non-alcoholic drinks,Small employers,2019,70
+Food and non-alcoholic drinks,Lower supervisory,2019,64.8
+Food and non-alcoholic drinks,Semi routine,2019,63.6
+Food and non-alcoholic drinks,Routine,2019,60.8
+Food and non-alcoholic drinks,Long term unemployed,2019,40.6
+Food and non-alcoholic drinks,Students,2019,47.9
+Food and non-alcoholic drinks,occupation not stated ,2019,51.3
+"Alcoholic drinks, tobacco and narcotics",large employer and higher managerial,2019,19.8
+"Alcoholic drinks, tobacco and narcotics",Higher professional,2019,14
+"Alcoholic drinks, tobacco and narcotics",Lower managerial and professional,2019,12.7
+"Alcoholic drinks, tobacco and narcotics",Intermediate,2019,12.8
+"Alcoholic drinks, tobacco and narcotics",Small employers,2019,14.9
+"Alcoholic drinks, tobacco and narcotics",Lower supervisory,2019,14.4
+"Alcoholic drinks, tobacco and narcotics",Semi routine,2019,15.4
+"Alcoholic drinks, tobacco and narcotics",Routine,2019,13
+"Alcoholic drinks, tobacco and narcotics",Long term unemployed,2019,14.1
+"Alcoholic drinks, tobacco and narcotics",Students,2019,6.2
+"Alcoholic drinks, tobacco and narcotics",occupation not stated ,2019,10.9
+Clothing and footwear,large employer and higher managerial,2019,41.8
+Clothing and footwear,Higher professional,2019,33.8
+Clothing and footwear,Lower managerial and professional,2019,29.8
+Clothing and footwear,Intermediate,2019,26.1
+Clothing and footwear,Small employers,2019,28.4
+Clothing and footwear,Lower supervisory,2019,25.3
+Clothing and footwear,Semi routine,2019,22.6
+Clothing and footwear,Routine,2019,22.2
+Clothing and footwear,Long term unemployed,2019,10.1
+Clothing and footwear,Students,2019,22.4
+Clothing and footwear,occupation not stated ,2019,15.9
+"Housing (net)2, fuel and power",large employer and higher managerial,2019,92.3
+"Housing (net)2, fuel and power",Higher professional,2019,91.2
+"Housing (net)2, fuel and power",Lower managerial and professional,2019,90.2
+"Housing (net)2, fuel and power",Intermediate,2019,83.1
+"Housing (net)2, fuel and power",Small employers,2019,88.5
+"Housing (net)2, fuel and power",Lower supervisory,2019,86.1
+"Housing (net)2, fuel and power",Semi routine,2019,87.8
+"Housing (net)2, fuel and power",Routine,2019,100.2
+"Housing (net)2, fuel and power",Long term unemployed,2019,66.4
+"Housing (net)2, fuel and power",Students,2019,168.5
+"Housing (net)2, fuel and power",occupation not stated ,2019,52
+Household goods and services,large employer and higher managerial,2019,67.7
+Household goods and services,Higher professional,2019,72.7
+Household goods and services,Lower managerial and professional,2019,47.8
+Household goods and services,Intermediate,2019,38.7
+Household goods and services,Small employers,2019,43.7
+Household goods and services,Lower supervisory,2019,35.5
+Household goods and services,Semi routine,2019,29
+Household goods and services,Routine,2019,23
+Household goods and services,Long term unemployed,2019,16.1
+Household goods and services,Students,2019,19.5
+Household goods and services,occupation not stated ,2019,32
+Health,large employer and higher managerial,2019,12.9
+Health,Higher professional,2019,11.8
+Health,Lower managerial and professional,2019,7.1
+Health,Intermediate,2019,4.7
+Health,Small employers,2019,5.1
+Health,Lower supervisory,2019,4.7
+Health,Semi routine,2019,4.5
+Health,Routine,2019,4.6
+Health,Long term unemployed,2019,2.2
+Health,Students,2019,10.5
+Health,occupation not stated ,2019,10.4
+Transport,large employer and higher managerial,2019,142.8
+Transport,Higher professional,2019,127.4
+Transport,Lower managerial and professional,2019,99.8
+Transport,Intermediate,2019,78.4
+Transport,Small employers,2019,103
+Transport,Lower supervisory,2019,87.1
+Transport,Semi routine,2019,63.6
+Transport,Routine,2019,63.3
+Transport,Long term unemployed,2019,23.6
+Transport,Students,2019,60.9
+Transport,occupation not stated ,2019,49.1
+Communication,large employer and higher managerial,2019,29.6
+Communication,Higher professional,2019,25.6
+Communication,Lower managerial and professional,2019,24.7
+Communication,Intermediate,2019,23.7
+Communication,Small employers,2019,22
+Communication,Lower supervisory,2019,23.6
+Communication,Semi routine,2019,21.2
+Communication,Routine,2019,23
+Communication,Long term unemployed,2019,12.2
+Communication,Students,2019,18.3
+Communication,occupation not stated ,2019,15.8
+Recreation and culture,large employer and higher managerial,2019,137.6
+Recreation and culture,Higher professional,2019,118.8
+Recreation and culture,Lower managerial and professional,2019,89.5
+Recreation and culture,Intermediate,2019,66.5
+Recreation and culture,Small employers,2019,78.3
+Recreation and culture,Lower supervisory,2019,67.6
+Recreation and culture,Semi routine,2019,53.8
+Recreation and culture,Routine,2019,48.8
+Recreation and culture,Long term unemployed,2019,21.5
+Recreation and culture,Students,2019,61.4
+Recreation and culture,occupation not stated ,2019,66.1
+Education,large employer and higher managerial,2019,13.2
+Education,Higher professional,2019,18
+Education,Lower managerial and professional,2019,8.6
+Education,Intermediate,2019,1.3
+Education,Small employers,2019,7.4
+Education,Lower supervisory,2019,3.3
+Education,Semi routine,2019,1.3
+Education,Routine,2019,5.7
+Education,Long term unemployed,2019,5.7
+Education,Students,2019,28.8
+Education,occupation not stated ,2019,0.6
+Restaurants and hotels,large employer and higher managerial,2019,109.3
+Restaurants and hotels,Higher professional,2019,79.1
+Restaurants and hotels,Lower managerial and professional,2019,66
+Restaurants and hotels,Intermediate,2019,51.9
+Restaurants and hotels,Small employers,2019,61
+Restaurants and hotels,Lower supervisory,2019,52.5
+Restaurants and hotels,Semi routine,2019,35.5
+Restaurants and hotels,Routine,2019,34.4
+Restaurants and hotels,Long term unemployed,2019,19.5
+Restaurants and hotels,Students,2019,46.8
+Restaurants and hotels,occupation not stated ,2019,31.8
+Miscellaneous goods and services,large employer and higher managerial,2019,70.6
+Miscellaneous goods and services,Higher professional,2019,70.4
+Miscellaneous goods and services,Lower managerial and professional,2019,52.6
+Miscellaneous goods and services,Intermediate,2019,41.2
+Miscellaneous goods and services,Small employers,2019,48.7
+Miscellaneous goods and services,Lower supervisory,2019,45
+Miscellaneous goods and services,Semi routine,2019,36.6
+Miscellaneous goods and services,Routine,2019,33.3
+Miscellaneous goods and services,Long term unemployed,2019,12.7
+Miscellaneous goods and services,Students,2019,38.3
+Miscellaneous goods and services,occupation not stated ,2019,36.4
+All expenditure groups,large employer and higher managerial,2019,827.2
+All expenditure groups,Higher professional,2019,735.7
+All expenditure groups,Lower managerial and professional,2019,595.3
+All expenditure groups,Intermediate,2019,488
+All expenditure groups,Small employers,2019,571
+All expenditure groups,Lower supervisory,2019,509.9
+All expenditure groups,Semi routine,2019,434.9
+All expenditure groups,Routine,2019,428.2
+All expenditure groups,Long term unemployed,2019,241.2
+All expenditure groups,Students,2019,529.4
+All expenditure groups,occupation not stated ,2019,372.3
+Other expenditure items,large employer and higher managerial,2019,132.4
+Other expenditure items,Higher professional,2019,125.7
+Other expenditure items,Lower managerial and professional,2019,106.8
+Other expenditure items,Intermediate,2019,74.5
+Other expenditure items,Small employers,2019,73.3
+Other expenditure items,Lower supervisory,2019,75.4
+Other expenditure items,Semi routine,2019,52.8
+Other expenditure items,Routine,2019,50.7
+Other expenditure items,Long term unemployed,2019,13.8
+Other expenditure items,Students,2019,73.3
+Other expenditure items,occupation not stated ,2019,51.3
+Food and non-alcoholic drinks,large employer and higher managerial,2020,87.7
+Food and non-alcoholic drinks,Higher professional,2020,77.2
+Food and non-alcoholic drinks,Lower managerial and professional,2020,69.3
+Food and non-alcoholic drinks,Intermediate,2020,65.1
+Food and non-alcoholic drinks,Small employers,2020,70.7
+Food and non-alcoholic drinks,Lower supervisory,2020,63.6
+Food and non-alcoholic drinks,Semi routine,2020,62.3
+Food and non-alcoholic drinks,Routine,2020,56.5
+Food and non-alcoholic drinks,Long term unemployed,2020,49.2
+Food and non-alcoholic drinks,Students,2020,58.2
+Food and non-alcoholic drinks,occupation not stated ,2020,52.6
+"Alcoholic drinks, tobacco and narcotics",large employer and higher managerial,2020,18.4
+"Alcoholic drinks, tobacco and narcotics",Higher professional,2020,14.3
+"Alcoholic drinks, tobacco and narcotics",Lower managerial and professional,2020,14.4
+"Alcoholic drinks, tobacco and narcotics",Intermediate,2020,12.6
+"Alcoholic drinks, tobacco and narcotics",Small employers,2020,14.6
+"Alcoholic drinks, tobacco and narcotics",Lower supervisory,2020,13.2
+"Alcoholic drinks, tobacco and narcotics",Semi routine,2020,13.5
+"Alcoholic drinks, tobacco and narcotics",Routine,2020,10.2
+"Alcoholic drinks, tobacco and narcotics",Long term unemployed,2020,7.5
+"Alcoholic drinks, tobacco and narcotics",Students,2020,13.3
+"Alcoholic drinks, tobacco and narcotics",occupation not stated ,2020,11.1
+Clothing and footwear,large employer and higher managerial,2020,36.6
+Clothing and footwear,Higher professional,2020,34
+Clothing and footwear,Lower managerial and professional,2020,31.5
+Clothing and footwear,Intermediate,2020,26.7
+Clothing and footwear,Small employers,2020,22.2
+Clothing and footwear,Lower supervisory,2020,22.7
+Clothing and footwear,Semi routine,2020,19.2
+Clothing and footwear,Routine,2020,22
+Clothing and footwear,Long term unemployed,2020,11.2
+Clothing and footwear,Students,2020,24.1
+Clothing and footwear,occupation not stated ,2020,13.7
+"Housing (net)2, fuel and power",large employer and higher managerial,2020,92.7
+"Housing (net)2, fuel and power",Higher professional,2020,102
+"Housing (net)2, fuel and power",Lower managerial and professional,2020,87.5
+"Housing (net)2, fuel and power",Intermediate,2020,88.8
+"Housing (net)2, fuel and power",Small employers,2020,97.8
+"Housing (net)2, fuel and power",Lower supervisory,2020,97.7
+"Housing (net)2, fuel and power",Semi routine,2020,99.2
+"Housing (net)2, fuel and power",Routine,2020,90.3
+"Housing (net)2, fuel and power",Long term unemployed,2020,72.2
+"Housing (net)2, fuel and power",Students,2020,214.9
+"Housing (net)2, fuel and power",occupation not stated ,2020,52.2
+Household goods and services,large employer and higher managerial,2020,58.5
+Household goods and services,Higher professional,2020,51
+Household goods and services,Lower managerial and professional,2020,41.1
+Household goods and services,Intermediate,2020,38.6
+Household goods and services,Small employers,2020,40
+Household goods and services,Lower supervisory,2020,43.1
+Household goods and services,Semi routine,2020,35.4
+Household goods and services,Routine,2020,29.8
+Household goods and services,Long term unemployed,2020,12.8
+Household goods and services,Students,2020,18.8
+Household goods and services,occupation not stated ,2020,26.2
+Health,large employer and higher managerial,2020,16.2
+Health,Higher professional,2020,9.2
+Health,Lower managerial and professional,2020,8.2
+Health,Intermediate,2020,8.1
+Health,Small employers,2020,7.4
+Health,Lower supervisory,2020,4.5
+Health,Semi routine,2020,5.2
+Health,Routine,2020,4.6
+Health,Long term unemployed,2020,1.2
+Health,Students,2020,5.2
+Health,occupation not stated ,2020,9.7
+Transport,large employer and higher managerial,2020,141.9
+Transport,Higher professional,2020,129.7
+Transport,Lower managerial and professional,2020,105.2
+Transport,Intermediate,2020,90.9
+Transport,Small employers,2020,96.6
+Transport,Lower supervisory,2020,86.5
+Transport,Semi routine,2020,62.7
+Transport,Routine,2020,73.8
+Transport,Long term unemployed,2020,24
+Transport,Students,2020,69.1
+Transport,occupation not stated ,2020,42.8
+Communication,large employer and higher managerial,2020,28.8
+Communication,Higher professional,2020,24.4
+Communication,Lower managerial and professional,2020,25.7
+Communication,Intermediate,2020,23.6
+Communication,Small employers,2020,23.8
+Communication,Lower supervisory,2020,22.2
+Communication,Semi routine,2020,23.2
+Communication,Routine,2020,20.2
+Communication,Long term unemployed,2020,12.7
+Communication,Students,2020,16.8
+Communication,occupation not stated ,2020,15.5
+Recreation and culture,large employer and higher managerial,2020,132.9
+Recreation and culture,Higher professional,2020,106.7
+Recreation and culture,Lower managerial and professional,2020,89.6
+Recreation and culture,Intermediate,2020,64.4
+Recreation and culture,Small employers,2020,69.5
+Recreation and culture,Lower supervisory,2020,70.3
+Recreation and culture,Semi routine,2020,48.3
+Recreation and culture,Routine,2020,53.1
+Recreation and culture,Long term unemployed,2020,20.5
+Recreation and culture,Students,2020,63.5
+Recreation and culture,occupation not stated ,2020,64.3
+Education,large employer and higher managerial,2020,18.2
+Education,Higher professional,2020,11.2
+Education,Lower managerial and professional,2020,5.4
+Education,Intermediate,2020,5.6
+Education,Small employers,2020,1.7
+Education,Lower supervisory,2020,4.4
+Education,Semi routine,2020,2.3
+Education,Routine,2020,1.1
+Education,Long term unemployed,2020,4.5
+Education,Students,2020,26.5
+Education,occupation not stated ,2020,0.5
+Restaurants and hotels,large employer and higher managerial,2020,95.8
+Restaurants and hotels,Higher professional,2020,84.9
+Restaurants and hotels,Lower managerial and professional,2020,71.3
+Restaurants and hotels,Intermediate,2020,50
+Restaurants and hotels,Small employers,2020,54.4
+Restaurants and hotels,Lower supervisory,2020,47.1
+Restaurants and hotels,Semi routine,2020,36.2
+Restaurants and hotels,Routine,2020,36.3
+Restaurants and hotels,Long term unemployed,2020,19.6
+Restaurants and hotels,Students,2020,75.8
+Restaurants and hotels,occupation not stated ,2020,32.5
+Miscellaneous goods and services,large employer and higher managerial,2020,70.3
+Miscellaneous goods and services,Higher professional,2020,62.8
+Miscellaneous goods and services,Lower managerial and professional,2020,59.9
+Miscellaneous goods and services,Intermediate,2020,46.6
+Miscellaneous goods and services,Small employers,2020,45.5
+Miscellaneous goods and services,Lower supervisory,2020,43.8
+Miscellaneous goods and services,Semi routine,2020,34.8
+Miscellaneous goods and services,Routine,2020,33.6
+Miscellaneous goods and services,Long term unemployed,2020,11.9
+Miscellaneous goods and services,Students,2020,49.2
+Miscellaneous goods and services,occupation not stated ,2020,33.5
+All expenditure groups,large employer and higher managerial,2020,798.1
+All expenditure groups,Higher professional,2020,707.5
+All expenditure groups,Lower managerial and professional,2020,609.2
+All expenditure groups,Intermediate,2020,521
+All expenditure groups,Small employers,2020,544.2
+All expenditure groups,Lower supervisory,2020,519.1
+All expenditure groups,Semi routine,2020,442.5
+All expenditure groups,Routine,2020,431.5
+All expenditure groups,Long term unemployed,2020,243.8
+All expenditure groups,Students,2020,635.4
+All expenditure groups,occupation not stated ,2020,354.5
+Other expenditure items,large employer and higher managerial,2020,153.5
+Other expenditure items,Higher professional,2020,142.9
+Other expenditure items,Lower managerial and professional,2020,104.6
+Other expenditure items,Intermediate,2020,70.9
+Other expenditure items,Small employers,2020,80.1
+Other expenditure items,Lower supervisory,2020,75.5
+Other expenditure items,Semi routine,2020,56.8
+Other expenditure items,Routine,2020,51.2
+Other expenditure items,Long term unemployed,2020,16.6
+Other expenditure items,Students,2020,51.3
+Other expenditure items,occupation not stated ,2020,47.2
